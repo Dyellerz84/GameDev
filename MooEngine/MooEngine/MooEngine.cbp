@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MooEngine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="MooEngine" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/include" />
+					<Add directory="$(IncludePath)" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-s-d" />
+					<Add library="sfml-window-s-d" />
+					<Add library="sfml-system-s-d" />
+					<Add library="sfml-audio-s-d" />
+					<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/lib" />
+					<Add directory="$(LibraryPath)" />
+				</Linker>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="MooEngine" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/include" />
+					<Add directory="$(IncludePath)" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-s" />
+					<Add library="sfml-window-s" />
+					<Add library="sfml-system-s" />
+					<Add library="sfml-audio-s" />
+					<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/lib" />
+					<Add directory="$(LibraryPath)" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-DSFML_STATIC" />
+			<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/include" />
+		</Compiler>
+		<Linker>
+			<Add directory="C:/Users/Commander Zorg/Desktop/Developer Environment/SFML-2.2/lib" />
+		</Linker>
+		<Unit filename="Button Component.h" />
+		<Unit filename="Button State Enum.h" />
+		<Unit filename="Event Button Interface.h" />
+		<Unit filename="Game Data.h" />
+		<Unit filename="Game Event System.h" />
+		<Unit filename="Game State Base.h" />
+		<Unit filename="Global Constants.h" />
+		<Unit filename="Global Functions.h" />
+		<Unit filename="Image Manager.cpp" />
+		<Unit filename="Image Manager.h" />
+		<Unit filename="Intro State.cpp" />
+		<Unit filename="Intro State.h" />
+		<Unit filename="MOO Engine.cpp" />
+		<Unit filename="MOO Engine.h" />
+		<Unit filename="Main Game Events Enum.h" />
+		<Unit filename="Main Game State Compilation.h" />
+		<Unit filename="Main Game State.cpp" />
+		<Unit filename="Main Game State.h" />
+		<Unit filename="Main Game States Enum.h" />
+		<Unit filename="Main Title State.cpp" />
+		<Unit filename="Main Title State.h" />
+		<Unit filename="Major Game State Enum.h" />
+		<Unit filename="Music Manager.cpp" />
+		<Unit filename="Music Manager.h" />
+		<Unit filename="Radio Event Button Array.h" />
+		<Unit filename="Simple Button.h" />
+		<Unit filename="Slider Interface.h" />
+		<Unit filename="Sound Manager.cpp" />
+		<Unit filename="Sound Manager.h" />
+		<Unit filename="System Settings.cpp" />
+		<Unit filename="System Settings.h" />
+		<Unit filename="Title State.cpp" />
+		<Unit filename="Title State.h" />
+		<Unit filename="Title States Compilation.h" />
+		<Unit filename="Title States Enum.h" />
+		<Unit filename="UI.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

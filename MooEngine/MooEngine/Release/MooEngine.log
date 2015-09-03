@@ -1,0 +1,33 @@
+﻿Build started 9/3/2015 2:15:32 PM.
+     1>Project "C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\MooEngine\MooEngine.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (MooEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt "MOO Engine.cpp"
+         MOO Engine.cpp
+     1>MOO Engine.cpp(18): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\Release\HAMEngine.exe" /NOLOGO "sfml-main.lib" "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" "sfml-audio.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\Release\HAMEngine.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\Release\HAMEngine.lib" /MACHINE:X86 /SAFESEH "Release\Galaxy View State.obj"
+         "Release\Image Manager.obj"
+         "Release\Intro State.obj"
+         "Release\Main Game State.obj"
+         "Release\Main Title State.obj"
+         Release\main.obj
+         "Release\MOO Engine.obj"
+         "Release\Music Manager.obj"
+         "Release\New Game Setup State.obj"
+         "Release\Sound Manager.obj"
+         "Release\System Settings.obj"
+         "Release\System View State.obj"
+         "Release\Title State.obj"
+         Generating code
+     1>c:\users\commander zorg\desktop\developer environment\programs\c++\mooengine\mooengine\star data.h(68): warning C4715: 'StarData::GetStarTypeString' : not all control paths return a value
+     1>c:\users\commander zorg\desktop\developer environment\programs\c++\mooengine\mooengine\planet data.h(188): warning C4715: 'PlanetData::GetSizeString' : not all control paths return a value
+         Finished generating code
+         MooEngine.vcxproj -> C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\Release\HAMEngine.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\Release\HAMEngine.bsc" /n "Release\Galaxy View State.sbr" "Release\Image Manager.sbr" "Release\Intro State.sbr" "Release\Main Game State.sbr" "Release\Main Title State.sbr" Release\main.sbr "Release\MOO Engine.sbr" "Release\Music Manager.sbr" "Release\New Game Setup State.sbr" "Release\Sound Manager.sbr" "Release\System Settings.sbr" "Release\System View State.sbr" "Release\Title State.sbr"
+     1>Done Building Project "C:\Users\Commander Zorg\Desktop\Developer Environment\Programs\C++\MooEngine\MooEngine\MooEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.84

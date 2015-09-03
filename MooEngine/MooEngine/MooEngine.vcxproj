@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{6F5ED307-C794-4B4F-80EC-52D47C3DB837}</ProjectGuid>
+    <RootNamespace>MooEngine</RootNamespace>
+    <ProjectName>HAMEngine</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Users\Commander Zorg\Desktop\Developer Environment\SFML-2.3.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Commander Zorg\Desktop\Developer Environment\SFML-2.3.1\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>C:\Users\Commander Zorg\Desktop\Developer Environment\SFML-2.3.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Commander Zorg\Desktop\Developer Environment\SFML-2.3.1\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>sfml-main-d.lib;sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BrowseInformation>true</BrowseInformation>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>sfml-main.lib;sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Bscmake>
+      <PreserveSbr>true</PreserveSbr>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Button Component.h" />
+    <ClInclude Include="Button State Enum.h" />
+    <ClInclude Include="Event Button Interface.h" />
+    <ClInclude Include="Galaxy Creator.h" />
+    <ClInclude Include="Galaxy Data.h" />
+    <ClInclude Include="Galaxy View State Events.h" />
+    <ClInclude Include="Galaxy View State.h" />
+    <ClInclude Include="Game Data.h" />
+    <ClInclude Include="Game Event System.h" />
+    <ClInclude Include="Game State Base.h" />
+    <ClInclude Include="Global Constants.h" />
+    <ClInclude Include="Global Functions.h" />
+    <ClInclude Include="Image Manager.h" />
+    <ClInclude Include="Intro State.h" />
+    <ClInclude Include="Main Game Events Enum.h" />
+    <ClInclude Include="Main Game State Compilation.h" />
+    <ClInclude Include="Main Game State.h" />
+    <ClInclude Include="Main Game States Enum.h" />
+    <ClInclude Include="Main Title State.h" />
+    <ClInclude Include="Major Game State Enum.h" />
+    <ClInclude Include="MOO Engine.h" />
+    <ClInclude Include="Music Manager.h" />
+    <ClInclude Include="New Game Settings Data.h" />
+    <ClInclude Include="New Game Setup State Enum.h" />
+    <ClInclude Include="New Game Setup State.h" />
+    <ClInclude Include="Planet Data.h" />
+    <ClInclude Include="Radio Event Button Array.h" />
+    <ClInclude Include="Simple Button.h" />
+    <ClInclude Include="Slider Interface.h" />
+    <ClInclude Include="Sound Manager.h" />
+    <ClInclude Include="Star Data.h" />
+    <ClInclude Include="System Settings.h" />
+    <ClInclude Include="System View State.h" />
+    <ClInclude Include="Title State.h" />
+    <ClInclude Include="Title States Compilation.h" />
+    <ClInclude Include="Title States Enum.h" />
+    <ClInclude Include="UI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Galaxy View State.cpp" />
+    <ClCompile Include="Image Manager.cpp" />
+    <ClCompile Include="Intro State.cpp" />
+    <ClCompile Include="Main Game State.cpp" />
+    <ClCompile Include="Main Title State.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MOO Engine.cpp" />
+    <ClCompile Include="Music Manager.cpp" />
+    <ClCompile Include="New Game Setup State.cpp" />
+    <ClCompile Include="Sound Manager.cpp" />
+    <ClCompile Include="System Settings.cpp" />
+    <ClCompile Include="System View State.cpp" />
+    <ClCompile Include="Title State.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

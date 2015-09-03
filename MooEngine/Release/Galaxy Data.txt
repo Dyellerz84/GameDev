@@ -1,0 +1,4677 @@
+Number of Systems = 200
+
+Home
+Location = 0, 0
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+K-1496
+Location = 1297, 746
+
+     Number of planets in system = 7
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+G-1337
+Location = 960, 931
+
+     Number of planets in system = 0
+G-1011
+Location = 897, 468
+
+     Number of planets in system = 6
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+M-1774
+Location = 1772, 96
+
+     Number of planets in system = 8
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+M-1175
+Location = 692, 950
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+F-1587
+Location = 832, 1352
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+A-220
+Location = 206, 79
+
+     Number of planets in system = 5
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+G-1430
+Location = 1173, 819
+
+     Number of planets in system = 0
+M-1653
+Location = 1652, 81
+
+     Number of planets in system = 7
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+M-930
+Location = 892, 264
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+A-1854
+Location = 1682, 782
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+K-2168
+Location = 1757, 1271
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+M-2374
+Location = 1293, 1991
+
+     Number of planets in system = 0
+M-1623
+Location = 1510, 596
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+K-848
+Location = 493, 690
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+M-693
+Location = 45, 692
+
+     Number of planets in system = 8
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+M-2483
+Location = 1659, 1848
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+K-1699
+Location = 1275, 1123
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+M-1234
+Location = 713, 1008
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+K-945
+Location = 737, 593
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+K-1986
+Location = 665, 1872
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+M-935
+Location = 404, 844
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+M-2168
+Location = 1716, 1326
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+F-668
+Location = 643, 183
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+M-1759
+Location = 1145, 1336
+
+     Number of planets in system = 6
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+A-1200
+Location = 609, 1034
+
+     Number of planets in system = 6
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+A-1289
+Location = 1167, 548
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+M-2236
+Location = 1332, 1796
+
+     Number of planets in system = 0
+G-854
+Location = 297, 801
+
+     Number of planets in system = 0
+G-2380
+Location = 1967, 1340
+
+     Number of planets in system = 0
+G-1639
+Location = 1273, 1033
+
+     Number of planets in system = 0
+M-2637
+Location = 1900, 1830
+
+     Number of planets in system = 3
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+M-518
+Location = 402, 328
+
+     Number of planets in system = 7
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+G-2266
+Location = 1232, 1902
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+M-1841
+Location = 1737, 611
+
+     Number of planets in system = 0
+K-592
+Location = 574, 146
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+K-1698
+Location = 1594, 588
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-1404
+Location = 770, 1175
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+M-675
+Location = 313, 599
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+G-2016
+Location = 1736, 1026
+
+     Number of planets in system = 0
+G-1035
+Location = 1024, 151
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+M-1308
+Location = 786, 1046
+
+     Number of planets in system = 3
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+M-1209
+Location = 1137, 413
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+F-828
+Location = 669, 489
+
+     Number of planets in system = 3
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+G-1672
+Location = 1672, 10
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+F-1500
+Location = 1494, 144
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+F-1928
+Location = 11, 1928
+
+     Number of planets in system = 3
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+M-1790
+Location = 73, 1789
+
+     Number of planets in system = 4
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+K-1735
+Location = 1700, 347
+
+     Number of planets in system = 2
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-1552
+Location = 1464, 518
+
+     Number of planets in system = 3
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+M-1768
+Location = 422, 1717
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+F-1407
+Location = 816, 1147
+
+     Number of planets in system = 0
+G-1867
+Location = 947, 1610
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+A-563
+Location = 562, 42
+
+     Number of planets in system = 2
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+M-2525
+Location = 1601, 1953
+
+     Number of planets in system = 6
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+M-1303
+Location = 330, 1261
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-1887
+Location = 1884, 112
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+M-2413
+Location = 1687, 1726
+
+     Number of planets in system = 8
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+G-1274
+Location = 1262, 176
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+M-2470
+Location = 1974, 1486
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+K-2014
+Location = 1555, 1280
+
+     Number of planets in system = 5
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+G-1843
+Location = 1486, 1091
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+A-1662
+Location = 987, 1338
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-999
+Location = 762, 647
+
+     Number of planets in system = 1
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-2339
+Location = 1755, 1547
+
+     Number of planets in system = 5
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+K-833
+Location = 173, 815
+
+     Number of planets in system = 4
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+M-2441
+Location = 1893, 1542
+
+     Number of planets in system = 3
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+M-2387
+Location = 1629, 1746
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+A-1993
+Location = 513, 1926
+
+     Number of planets in system = 0
+F-2277
+Location = 1765, 1439
+
+     Number of planets in system = 4
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+K-1788
+Location = 1141, 1377
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+K-1662
+Location = 1662, 45
+
+     Number of planets in system = 3
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+M-1848
+Location = 1762, 560
+
+     Number of planets in system = 7
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+M-800
+Location = 738, 309
+
+     Number of planets in system = 7
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+F-632
+Location = 143, 616
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+F-1846
+Location = 321, 1818
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+F-785
+Location = 355, 701
+
+     Number of planets in system = 6
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+A-2399
+Location = 1376, 1966
+
+     Number of planets in system = 6
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+G-1728
+Location = 1044, 1377
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+K-1843
+Location = 1368, 1236
+
+     Number of planets in system = 5
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+A-1385
+Location = 155, 1377
+
+     Number of planets in system = 0
+A-1926
+Location = 527, 1853
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+M-1276
+Location = 906, 899
+
+     Number of planets in system = 5
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+G-706
+Location = 269, 653
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+M-1576
+Location = 1248, 964
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+M-995
+Location = 939, 330
+
+     Number of planets in system = 7
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+K-716
+Location = 682, 221
+
+     Number of planets in system = 7
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-1328
+Location = 1092, 756
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+A-1003
+Location = 246, 973
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+G-1805
+Location = 1798, 161
+
+     Number of planets in system = 7
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+F-1785
+Location = 1770, 238
+
+     Number of planets in system = 0
+M-1750
+Location = 1524, 861
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+A-1122
+Location = 52, 1121
+
+     Number of planets in system = 0
+A-1236
+Location = 1149, 457
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+K-720
+Location = 241, 679
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+B-2131
+Location = 840, 1959
+
+     Number of planets in system = 5
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+M-2151
+Location = 1930, 951
+
+     Number of planets in system = 5
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+M-2325
+Location = 1354, 1891
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+K-1459
+Location = 308, 1427
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-334
+Location = 297, 154
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+M-1808
+Location = 1616, 811
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+M-2656
+Location = 1850, 1907
+
+     Number of planets in system = 8
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+K-1232
+Location = 1026, 683
+
+     Number of planets in system = 4
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+K-1550
+Location = 1276, 880
+
+     Number of planets in system = 6
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-2108
+Location = 1868, 978
+
+     Number of planets in system = 2
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+A-2399
+Location = 1704, 1689
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+K-1336
+Location = 1223, 539
+
+     Number of planets in system = 6
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+G-583
+Location = 485, 324
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+A-2549
+Location = 1740, 1863
+
+     Number of planets in system = 0
+K-2216
+Location = 1851, 1219
+
+     Number of planets in system = 3
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-881
+Location = 874, 113
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+A-1314
+Location = 426, 1244
+
+     Number of planets in system = 0
+A-1816
+Location = 1222, 1344
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+M-2695
+Location = 1929, 1883
+
+     Number of planets in system = 5
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+M-2074
+Location = 1739, 1131
+
+     Number of planets in system = 8
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+M-1671
+Location = 663, 1534
+
+     Number of planets in system = 2
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+F-536
+Location = 527, 103
+
+     Number of planets in system = 5
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+G-1910
+Location = 148, 1905
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+K-585
+Location = 28, 585
+
+     Number of planets in system = 7
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+F-1335
+Location = 1323, 185
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+M-400
+Location = 158, 368
+
+     Number of planets in system = 0
+K-1323
+Location = 1163, 631
+
+     Number of planets in system = 4
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+K-1273
+Location = 951, 847
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+F-1332
+Location = 674, 1149
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+M-1678
+Location = 1334, 1018
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+A-1417
+Location = 1231, 702
+
+     Number of planets in system = 6
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+M-1588
+Location = 1436, 680
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+M-1880
+Location = 1777, 614
+
+     Number of planets in system = 6
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+M-1770
+Location = 990, 1468
+
+     Number of planets in system = 0
+M-2657
+Location = 1780, 1973
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+M-974
+Location = 950, 216
+
+     Number of planets in system = 7
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+K-526
+Location = 95, 518
+
+     Number of planets in system = 7
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+M-2068
+Location = 594, 1981
+
+     Number of planets in system = 0
+M-858
+Location = 241, 824
+
+     Number of planets in system = 1
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+A-1315
+Location = 596, 1173
+
+     Number of planets in system = 8
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+A-412
+Location = 193, 365
+
+     Number of planets in system = 7
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-1883
+Location = 1192, 1458
+
+     Number of planets in system = 7
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+F-2331
+Location = 1898, 1354
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+F-951
+Location = 587, 749
+
+     Number of planets in system = 0
+M-1884
+Location = 1426, 1232
+
+     Number of planets in system = 4
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+A-908
+Location = 808, 416
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+M-1603
+Location = 569, 1499
+
+     Number of planets in system = 1
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+M-1859
+Location = 1834, 307
+
+     Number of planets in system = 0
+M-1896
+Location = 570, 1809
+
+     Number of planets in system = 5
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+F-1852
+Location = 970, 1578
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+G-579
+Location = 571, 96
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+K-2261
+Location = 1653, 1543
+
+     Number of planets in system = 4
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+G-1063
+Location = 80, 1060
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+M-1233
+Location = 514, 1121
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+G-1512
+Location = 387, 1462
+
+     Number of planets in system = 2
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+A-2117
+Location = 1800, 1115
+
+     Number of planets in system = 2
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+K-970
+Location = 705, 667
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+M-989
+Location = 356, 923
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+M-1933
+Location = 1696, 928
+
+     Number of planets in system = 6
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+G-1152
+Location = 938, 669
+
+     Number of planets in system = 1
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+A-1306
+Location = 1106, 696
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+G-1542
+Location = 1389, 671
+
+     Number of planets in system = 5
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+M-1046
+Location = 731, 749
+
+     Number of planets in system = 8
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+A-2140
+Location = 1799, 1159
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+F-960
+Location = 76, 957
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+A-925
+Location = 300, 876
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+M-1213
+Location = 904, 810
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+K-981
+Location = 854, 483
+
+     Number of planets in system = 2
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+K-575
+Location = 540, 199
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+A-1712
+Location = 1709, 105
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+K-1158
+Location = 477, 1056
+
+     Number of planets in system = 5
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+F-1923
+Location = 1848, 532
+
+     Number of planets in system = 0
+F-884
+Location = 707, 532
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+F-2066
+Location = 1940, 712
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+B-1098
+Location = 1098, 43
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+M-252
+Location = 251, 31
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+K-956
+Location = 955, 55
+
+     Number of planets in system = 8
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-2191
+Location = 1230, 1814
+
+     Number of planets in system = 0
+K-1793
+Location = 717, 1644
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+A-1248
+Location = 794, 963
+
+     Number of planets in system = 7
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+M-1378
+Location = 569, 1256
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+M-1981
+Location = 694, 1856
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+G-1607
+Location = 602, 1490
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+K-1778
+Location = 1717, 462
+
+     Number of planets in system = 0
+K-728
+Location = 80, 724
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+G-1993
+Location = 1840, 768
+
+     Number of planets in system = 8
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+K-1816
+Location = 1802, 232
+
+     Number of planets in system = 2
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+M-800
+Location = 797, 78
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+M-358
+Location = 243, 263
+
+     Number of planets in system = 0
+M-1343
+Location = 856, 1035
+
+     Number of planets in system = 7
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Small
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+F-1822
+Location = 1556, 949
+
+     Number of planets in system = 0
+F-1846
+Location = 832, 1648
+
+     Number of planets in system = 6
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+M-2133
+Location = 968, 1901
+
+     Number of planets in system = 8
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Radiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+M-1284
+Location = 137, 1277
+
+     Number of planets in system = 5
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+     Orbital position = 8
+     Climate = Radiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Huge
+
+F-797
+Location = 324, 729
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Small
+
+G-623
+Location = 436, 446
+
+     Number of planets in system = 0
+F-703
+Location = 507, 487
+
+     Number of planets in system = 8
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 2
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 5
+     Climate = Radiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+M-1994
+Location = 1963, 353
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+K-588
+Location = 470, 354
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+
+G-1181
+Location = 1173, 141
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+
+     Orbital position = 4
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+
+F-2209
+Location = 1262, 1814
+
+     Number of planets in system = 2
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+
+K-1224
+Location = 1186, 306
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+
+     Orbital position = 3
+     Climate = Radiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+K-1526
+Location = 1515, 185
+
+     Number of planets in system = 5
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Large
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+
+F-1551
+Location = 1444, 567
+
+     Number of planets in system = 2
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+

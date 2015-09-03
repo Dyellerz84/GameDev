@@ -1,0 +1,577 @@
+LOG OPEN! WE ARE IN THE GALAXYVIEWSTATE!
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn
+Beginning to draw sprites
+Zoom Factor = 1
+1 Sprites Drawn

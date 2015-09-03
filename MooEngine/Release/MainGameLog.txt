@@ -1,0 +1,1176 @@
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
+Attempting to handle input...Successful!
+Attempting to handle logic...Successful!
+Attempting to handle output...Successful!
+Attempting to determine next state...Succesful!
