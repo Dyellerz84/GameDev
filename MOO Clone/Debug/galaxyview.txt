@@ -1,3 +1,0 @@
-LOG OPEN! WE ARE IN THE GALAXYVIEWSTATE!
-Attempting to handle input...Successful!
-Attempting to handle logic...Successful!
