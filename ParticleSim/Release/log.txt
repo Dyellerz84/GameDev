@@ -1,0 +1,2671 @@
+Loop Iteration: 0
+Particle: 0Mass: 14 X.vel: 3.4461e-006 Y.vel: 2.50403e-005 gForce: 0.000042 Force Vector: X:0.000032 Y:0.000027
+
+Particle: 1Mass: 16 X.vel: -2.31438e-005 Y.vel: -1.38901e-005 gForce: 0.000020 Force Vector: X:-0.000020 Y:0.000003
+
+Particle: 2Mass: 13 X.vel: -4.28314e-005 Y.vel: -1.00401e-005 gForce: 0.000021 Force Vector: X:-0.000021 Y:0.000001
+
+Particle: 3Mass: 19 X.vel: 4.33598e-005 Y.vel: 1.32436e-005 gForce: 0.000034 Force Vector: X:-0.000014 Y:0.000031
+
+Particle: 4Mass: 12 X.vel: 3.59551e-005 Y.vel: 5.62266e-005 gForce: 0.000024 Force Vector: X:-0.000010 Y:0.000022
+
+Particle: 5Mass: 13 X.vel: 6.60873e-005 Y.vel: -5.46797e-005 gForce: 0.000040 Force Vector: X:-0.000003 Y:0.000040
+
+Particle: 6Mass: 19 X.vel: -0.00021018 Y.vel: -0.00228061 gForce: 0.000147 Force Vector: X:-0.000020 Y:0.000146
+
+Particle: 7Mass: 17 X.vel: 2.96935e-006 Y.vel: 2.78604e-005 gForce: 0.000114 Force Vector: X:0.000107 Y:0.000039
+
+Particle: 8Mass: 18 X.vel: -1.18266e-005 Y.vel: 2.87877e-005 gForce: 0.000041 Force Vector: X:-0.000003 Y:0.000041
+
+Particle: 9Mass: 18 X.vel: 0.000191142 Y.vel: 0.00235473 gForce: 0.000042 Force Vector: X:-0.000032 Y:-0.000027
+
+Particle: 10Mass: 37 X.vel: -1.7842e-005 Y.vel: -1.95627e-005 gForce: 0.000009 Force Vector: X:-0.000009 Y:-0.000002
+
+Particle: 11Mass: 56 X.vel: 5.46646e-009 Y.vel: 1.62127e-008 gForce: 0.000010 Force Vector: X:-0.000010 Y:-0.000002
+
+Particle: 12Mass: 75 X.vel: 2.43011e-015 Y.vel: 3.50532e-015 gForce: 0.000026 Force Vector: X:-0.000025 Y:0.000005
+
+Particle: 13Mass: 54 X.vel: -1.42098e-010 Y.vel: -8.77108e-011 gForce: 0.000023 Force Vector: X:-0.000021 Y:0.000008
+
+Particle: 14Mass: 73 X.vel: -4.13208e-017 Y.vel: -5.41192e-017 gForce: 0.000062 Force Vector: X:-0.000054 Y:0.000030
+
+Particle: 15Mass: 71 X.vel: -1.1552e-017 Y.vel: -8.5326e-018 gForce: 0.000072 Force Vector: X:-0.000071 Y:-0.000008
+
+Particle: 16Mass: 55 X.vel: -4.72871e-011 Y.vel: -1.52804e-010 gForce: 0.000269 Force Vector: X:-0.000094 Y:-0.000253
+
+Particle: 17Mass: 74 X.vel: 5.58002e-017 Y.vel: -1.5465e-017 gForce: 0.000060 Force Vector: X:-0.000054 Y:0.000027
+
+Particle: 18Mass: 72 X.vel: 1.40082e-017 Y.vel: -1.25327e-017 gForce: 0.000020 Force Vector: X:0.000020 Y:-0.000003
+
+Particle: 19Mass: 73 X.vel: -2.54106e-018 Y.vel: -9.81419e-018 gForce: 0.000009 Force Vector: X:0.000009 Y:0.000002
+
+Particle: 20Mass: 37 X.vel: -2.22185e-006 Y.vel: -6.71088e-006 gForce: 0.000711 Force Vector: X:-0.000684 Y:-0.000191
+
+Particle: 21Mass: 55 X.vel: -5.80214e-009 Y.vel: -1.65648e-008 gForce: 0.000022 Force Vector: X:0.000018 Y:0.000014
+
+Particle: 22Mass: 74 X.vel: -2.49466e-015 Y.vel: -3.49844e-015 gForce: 0.000021 Force Vector: X:0.000014 Y:0.000016
+
+Particle: 23Mass: 72 X.vel: -6.89506e-018 Y.vel: 1.69459e-017 gForce: 0.000020 Force Vector: X:0.000016 Y:0.000012
+
+Particle: 24Mass: 73 X.vel: -5.0579e-018 Y.vel: 3.36526e-018 gForce: 0.000026 Force Vector: X:0.000024 Y:0.000008
+
+Particle: 25Mass: 55 X.vel: -9.57953e-012 Y.vel: -1.31511e-011 gForce: 0.000012 Force Vector: X:0.000012 Y:0.000000
+
+Particle: 26Mass: 73 X.vel: -4.68258e-018 Y.vel: -3.20507e-018 gForce: 0.000019 Force Vector: X:0.000015 Y:0.000012
+
+Particle: 27Mass: 73 X.vel: -1.66832e-019 Y.vel: -1.20306e-019 gForce: 0.000021 Force Vector: X:0.000021 Y:-0.000001
+
+Particle: 28Mass: 51 X.vel: -3.00731e-010 Y.vel: -1.8178e-010 gForce: 0.000010 Force Vector: X:0.000010 Y:0.000002
+
+Particle: 29Mass: 53 X.vel: -2.01786e-009 Y.vel: 3.84177e-010 gForce: 0.000711 Force Vector: X:0.000684 Y:0.000191
+
+Particle: 30Mass: 50 X.vel: 2.86566e-011 Y.vel: -5.44376e-011 gForce: 0.000022 Force Vector: X:0.000019 Y:0.000013
+
+Particle: 31Mass: 56 X.vel: 1.16564e-011 Y.vel: -1.01854e-010 gForce: 0.000022 Force Vector: X:0.000016 Y:0.000015
+
+Particle: 32Mass: 49 X.vel: 1.03023e-010 Y.vel: -3.301e-010 gForce: 0.000022 Force Vector: X:0.000018 Y:0.000012
+
+Particle: 33Mass: 50 X.vel: 1.34549e-010 Y.vel: -4.17899e-010 gForce: 0.000026 Force Vector: X:0.000025 Y:0.000008
+
+Particle: 34Mass: 56 X.vel: 2.09888e-009 Y.vel: -4.91002e-008 gForce: 0.000014 Force Vector: X:0.000014 Y:0.000001
+
+Particle: 35Mass: 54 X.vel: -4.37769e-010 Y.vel: -8.48399e-011 gForce: 0.000021 Force Vector: X:0.000017 Y:0.000012
+
+Particle: 36Mass: 55 X.vel: -2.92152e-010 Y.vel: 4.64822e-010 gForce: 0.000034 Force Vector: X:0.000014 Y:-0.000031
+
+Particle: 37Mass: 55 X.vel: -1.37341e-009 Y.vel: 4.91116e-008 gForce: 0.000026 Force Vector: X:0.000025 Y:-0.000005
+
+Particle: 38Mass: 93 X.vel: 1.12792e-017 Y.vel: 8.9983e-018 gForce: 0.000022 Force Vector: X:-0.000018 Y:-0.000014
+
+Particle: 39Mass: 91 X.vel: 2.86898e-018 Y.vel: 2.48657e-018 gForce: 0.000022 Force Vector: X:-0.000019 Y:-0.000013
+
+Particle: 40Mass: 92 X.vel: 5.44056e-018 Y.vel: 4.26745e-018 gForce: 0.000598 Force Vector: X:-0.000195 Y:0.000566
+
+Particle: 41Mass: 74 X.vel: -3.73053e-012 Y.vel: -2.43314e-011 gForce: 0.000275 Force Vector: X:0.000223 Y:0.000161
+
+Particle: 42Mass: 92 X.vel: 1.80998e-018 Y.vel: 4.76378e-020 gForce: 0.000178 Force Vector: X:0.000124 Y:-0.000128
+
+Particle: 43Mass: 92 X.vel: 1.08577e-019 Y.vel: 6.28416e-020 gForce: 0.000028 Force Vector: X:0.000024 Y:-0.000015
+
+Particle: 44Mass: 88 X.vel: -5.69963e-018 Y.vel: -8.50082e-018 gForce: 0.000296 Force Vector: X:0.000253 Y:0.000154
+
+Particle: 45Mass: 90 X.vel: -1.50363e-016 Y.vel: -5.29123e-016 gForce: 0.000024 Force Vector: X:0.000010 Y:-0.000022
+
+Particle: 46Mass: 87 X.vel: -1.16244e-019 Y.vel: -2.05592e-019 gForce: 0.000023 Force Vector: X:0.000021 Y:-0.000008
+
+Particle: 47Mass: 93 X.vel: -7.69157e-020 Y.vel: -1.37091e-019 gForce: 0.000021 Force Vector: X:-0.000014 Y:-0.000016
+
+Particle: 48Mass: 86 X.vel: -8.44374e-019 Y.vel: -1.62073e-018 gForce: 0.000022 Force Vector: X:-0.000016 Y:-0.000015
+
+Particle: 49Mass: 87 X.vel: -4.80396e-019 Y.vel: -9.17641e-019 gForce: 0.000598 Force Vector: X:0.000195 Y:-0.000566
+
+Particle: 50Mass: 93 X.vel: -2.57992e-018 Y.vel: -4.66862e-018 gForce: 0.000301 Force Vector: X:0.000301 Y:0.000017
+
+Particle: 51Mass: 91 X.vel: -5.95746e-018 Y.vel: -9.32488e-018 gForce: 0.000092 Force Vector: X:0.000054 Y:-0.000074
+
+Particle: 52Mass: 92 X.vel: -1.79953e-017 Y.vel: -5.65747e-017 gForce: 0.000023 Force Vector: X:0.000018 Y:-0.000014
+
+Particle: 53Mass: 92 X.vel: -2.57977e-018 Y.vel: -4.65365e-018 gForce: 0.000291 Force Vector: X:0.000290 Y:-0.000013
+
+Particle: 54Mass: 111 X.vel: -3.25132e-020 Y.vel: -5.00923e-020 gForce: 0.000040 Force Vector: X:0.000003 Y:-0.000040
+
+Particle: 55Mass: 70 X.vel: -5.42336e-016 Y.vel: 2.59114e-016 gForce: 0.000062 Force Vector: X:0.000054 Y:-0.000030
+
+Particle: 56Mass: 72 X.vel: 2.95447e-016 Y.vel: 1.02296e-015 gForce: 0.000020 Force Vector: X:-0.000016 Y:-0.000012
+
+Particle: 57Mass: 69 X.vel: -6.11189e-018 Y.vel: 2.92137e-016 gForce: 0.000022 Force Vector: X:-0.000018 Y:-0.000012
+
+Particle: 58Mass: 75 X.vel: -7.04272e-017 Y.vel: -5.67309e-016 gForce: 0.000275 Force Vector: X:-0.000223 Y:-0.000161
+
+Particle: 59Mass: 68 X.vel: -7.50545e-016 Y.vel: 1.90147e-016 gForce: 0.000301 Force Vector: X:-0.000301 Y:-0.000017
+
+Particle: 60Mass: 69 X.vel: 7.29404e-016 Y.vel: -1.46344e-015 gForce: 0.000191 Force Vector: X:0.000001 Y:-0.000191
+
+Particle: 61Mass: 75 X.vel: 1.1249e-013 Y.vel: -4.13846e-014 gForce: 0.000051 Force Vector: X:0.000031 Y:-0.000040
+
+Particle: 62Mass: 73 X.vel: -6.95386e-016 Y.vel: 3.74655e-016 gForce: 0.042991 Force Vector: X:-0.003724 Y:-0.042829
+
+Particle: 63Mass: 74 X.vel: -1.22379e-015 Y.vel: -8.01645e-017 gForce: 0.000199 Force Vector: X:0.000199 Y:0.000001
+
+Particle: 64Mass: 74 X.vel: -1.12909e-013 Y.vel: 4.20095e-014 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 65Mass: 93 X.vel: 6.71657e-016 Y.vel: -1.34375e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 66Mass: 110 X.vel: -2.00829e-019 Y.vel: 1.86044e-019 gForce: 0.000147 Force Vector: X:0.000020 Y:-0.000146
+
+Particle: 67Mass: 111 X.vel: -1.36846e-020 Y.vel: -4.66801e-020 gForce: 0.000072 Force Vector: X:0.000071 Y:0.000008
+
+Particle: 68Mass: 93 X.vel: 2.55297e-016 Y.vel: 6.39595e-017 gForce: 0.000026 Force Vector: X:-0.000024 Y:-0.000008
+
+Particle: 69Mass: 111 X.vel: -3.23641e-016 Y.vel: -4.90843e-016 gForce: 0.000026 Force Vector: X:-0.000025 Y:-0.000008
+
+Particle: 70Mass: 111 X.vel: -1.09624e-022 Y.vel: -1.4784e-022 gForce: 0.000178 Force Vector: X:-0.000124 Y:0.000128
+
+Particle: 71Mass: 107 X.vel: 8.85875e-019 Y.vel: -4.04174e-020 gForce: 0.000092 Force Vector: X:-0.000054 Y:0.000074
+
+Particle: 72Mass: 109 X.vel: 4.41393e-019 Y.vel: 1.28944e-019 gForce: 0.000191 Force Vector: X:-0.000001 Y:0.000191
+
+Particle: 73Mass: 106 X.vel: -1.979e-021 Y.vel: -4.50729e-021 gForce: 0.000101 Force Vector: X:0.000091 Y:-0.000043
+
+Particle: 74Mass: 112 X.vel: -5.71406e-022 Y.vel: -2.43983e-021 gForce: 0.000208 Force Vector: X:-0.000003 Y:0.000208
+
+Particle: 75Mass: 105 X.vel: 3.65397e-020 Y.vel: -8.2837e-020 gForce: 0.000120 Force Vector: X:0.000099 Y:0.000069
+
+Particle: 76Mass: 106 X.vel: -1.23326e-020 Y.vel: -6.38746e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 77Mass: 112 X.vel: 2.13524e-019 Y.vel: -3.00361e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 78Mass: 110 X.vel: 4.52619e-018 Y.vel: -5.79949e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 79Mass: 111 X.vel: 1.77364e-019 Y.vel: -2.11783e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 80Mass: 111 X.vel: 4.97438e-019 Y.vel: -1.3053e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 81Mass: 130 X.vel: -2.46009e-022 Y.vel: -4.13374e-022 gForce: 0.000114 Force Vector: X:-0.000107 Y:-0.000039
+
+Particle: 82Mass: 167 X.vel: -5.65343e-027 Y.vel: -7.62772e-027 gForce: 0.000269 Force Vector: X:0.000094 Y:0.000253
+
+Particle: 83Mass: 68 X.vel: -2.0676e-016 Y.vel: -1.1208e-017 gForce: 0.000012 Force Vector: X:-0.000012 Y:-0.000000
+
+Particle: 84Mass: 70 X.vel: -1.71701e-017 Y.vel: 1.91622e-016 gForce: 0.000014 Force Vector: X:-0.000014 Y:-0.000001
+
+Particle: 85Mass: 67 X.vel: 1.47837e-017 Y.vel: 2.2832e-016 gForce: 0.000028 Force Vector: X:-0.000024 Y:0.000015
+
+Particle: 86Mass: 73 X.vel: -7.39411e-017 Y.vel: -3.5267e-016 gForce: 0.000023 Force Vector: X:-0.000018 Y:0.000014
+
+Particle: 87Mass: 66 X.vel: -4.52638e-016 Y.vel: -1.83198e-016 gForce: 0.000051 Force Vector: X:-0.000031 Y:0.000040
+
+Particle: 88Mass: 67 X.vel: 4.58731e-016 Y.vel: -5.1109e-016 gForce: 0.000101 Force Vector: X:-0.000091 Y:0.000043
+
+Particle: 89Mass: 73 X.vel: 1.98908e-014 Y.vel: -5.90116e-016 gForce: 0.000051 Force Vector: X:-0.000032 Y:0.000040
+
+Particle: 90Mass: 71 X.vel: -1.95878e-016 Y.vel: 3.25193e-017 gForce: 0.000154 Force Vector: X:0.000022 Y:0.000153
+
+Particle: 91Mass: 72 X.vel: -2.28266e-016 Y.vel: 7.59769e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 92Mass: 72 X.vel: -1.97676e-014 Y.vel: 9.56515e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 93Mass: 91 X.vel: 1.69028e-016 Y.vel: 9.67144e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 94Mass: 110 X.vel: -4.53314e-019 Y.vel: -3.45647e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 95Mass: 109 X.vel: 1.27042e-019 Y.vel: -1.73094e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 96Mass: 91 X.vel: 5.5016e-017 Y.vel: 1.87702e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 97Mass: 109 X.vel: -1.03898e-019 Y.vel: -4.47395e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 98Mass: 109 X.vel: -1.08357e-023 Y.vel: -1.81031e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 99Mass: 105 X.vel: -6.41691e-020 Y.vel: -2.49826e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 100Mass: 107 X.vel: 1.78603e-019 Y.vel: 2.35728e-019 gForce: 0.000041 Force Vector: X:0.000003 Y:-0.000041
+
+Particle: 101Mass: 104 X.vel: 1.46093e-021 Y.vel: -5.37333e-021 gForce: 0.000060 Force Vector: X:0.000054 Y:-0.000027
+
+Particle: 102Mass: 110 X.vel: 1.43595e-021 Y.vel: -2.50451e-021 gForce: 0.000019 Force Vector: X:-0.000015 Y:-0.000012
+
+Particle: 103Mass: 103 X.vel: -7.70792e-020 Y.vel: -1.88172e-019 gForce: 0.000021 Force Vector: X:-0.000017 Y:-0.000012
+
+Particle: 104Mass: 104 X.vel: 1.11845e-020 Y.vel: -1.85029e-020 gForce: 0.000296 Force Vector: X:-0.000253 Y:-0.000154
+
+Particle: 105Mass: 110 X.vel: 4.20274e-019 Y.vel: -3.48422e-019 gForce: 0.000291 Force Vector: X:-0.000290 Y:0.000013
+
+Particle: 106Mass: 108 X.vel: -2.02034e-020 Y.vel: -3.56096e-020 gForce: 0.042991 Force Vector: X:0.003724 Y:0.042829
+
+Particle: 107Mass: 109 X.vel: -3.27703e-019 Y.vel: 3.87281e-019 gForce: 0.000208 Force Vector: X:0.000003 Y:-0.000208
+
+Particle: 108Mass: 109 X.vel: -4.20954e-019 Y.vel: 2.50947e-019 gForce: 0.000051 Force Vector: X:0.000032 Y:-0.000040
+
+Particle: 109Mass: 128 X.vel: -4.95974e-024 Y.vel: -1.13706e-022 gForce: 0.000186 Force Vector: X:0.000186 Y:0.000010
+
+Particle: 110Mass: 69 X.vel: -3.08078e-016 Y.vel: -1.85496e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 111Mass: 71 X.vel: -7.27716e-017 Y.vel: 2.99733e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 112Mass: 68 X.vel: 2.11827e-016 Y.vel: 1.33763e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 113Mass: 74 X.vel: -3.62656e-016 Y.vel: -1.60397e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 114Mass: 67 X.vel: -7.97222e-016 Y.vel: -6.97533e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 115Mass: 68 X.vel: 8.85262e-016 Y.vel: -1.12976e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 116Mass: 74 X.vel: 1.31731e-014 Y.vel: 9.11116e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 117Mass: 72 X.vel: -1.64866e-016 Y.vel: -7.583e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 118Mass: 73 X.vel: -1.89275e-016 Y.vel: 2.80837e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 119Mass: 73 X.vel: -1.27125e-014 Y.vel: 2.70522e-016 gForce: 0.000030 Force Vector: X:0.000015 Y:0.000027
+
+Particle: 120Mass: 92 X.vel: 6.77292e-017 Y.vel: 4.30077e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 121Mass: 111 X.vel: -1.84048e-019 Y.vel: -3.71474e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 122Mass: 109 X.vel: 2.86219e-019 Y.vel: -5.20972e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 123Mass: 92 X.vel: 5.09193e-017 Y.vel: 1.09516e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 124Mass: 110 X.vel: 1.01949e-019 Y.vel: -6.7297e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 125Mass: 110 X.vel: -9.40923e-024 Y.vel: -9.83459e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 126Mass: 106 X.vel: -6.09065e-020 Y.vel: 9.13187e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 127Mass: 108 X.vel: -5.68554e-020 Y.vel: 2.94327e-020 gForce: 0.000055 Force Vector: X:-0.000030 Y:-0.000046
+
+Particle: 128Mass: 105 X.vel: -1.02374e-021 Y.vel: -1.24331e-020 gForce: 0.000501 Force Vector: X:0.000027 Y:-0.000500
+
+Particle: 129Mass: 111 X.vel: 3.23287e-022 Y.vel: -2.29507e-021 gForce: 0.000018 Force Vector: X:-0.000016 Y:-0.000008
+
+Particle: 130Mass: 104 X.vel: -2.84353e-019 Y.vel: -2.67147e-019 gForce: 0.000021 Force Vector: X:-0.000019 Y:-0.000009
+
+Particle: 131Mass: 105 X.vel: 1.47811e-019 Y.vel: -1.02682e-019 gForce: 0.000062 Force Vector: X:-0.000061 Y:-0.000013
+
+Particle: 132Mass: 111 X.vel: 4.00967e-019 Y.vel: -1.09739e-019 gForce: 0.000062 Force Vector: X:-0.000062 Y:-0.000001
+
+Particle: 133Mass: 109 X.vel: -6.45132e-020 Y.vel: 1.69792e-020 gForce: 0.000199 Force Vector: X:-0.000199 Y:-0.000001
+
+Particle: 134Mass: 110 X.vel: -8.92769e-020 Y.vel: 1.60699e-020 gForce: 0.000120 Force Vector: X:-0.000099 Y:-0.000069
+
+Particle: 135Mass: 110 X.vel: -5.40613e-019 Y.vel: 6.81494e-021 gForce: 0.000154 Force Vector: X:-0.000022 Y:-0.000153
+
+Particle: 136Mass: 129 X.vel: -1.41296e-023 Y.vel: -1.01449e-022 gForce: 0.000186 Force Vector: X:-0.000186 Y:-0.000010
+
+Particle: 137Mass: 166 X.vel: 6.82544e-029 Y.vel: 1.10706e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 138Mass: 51 X.vel: -5.58486e-011 Y.vel: -2.1298e-010 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 139Mass: 53 X.vel: -6.53775e-011 Y.vel: 3.81665e-011 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 140Mass: 50 X.vel: -2.27166e-011 Y.vel: 2.60993e-011 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 141Mass: 56 X.vel: -3.76795e-011 Y.vel: -7.64482e-011 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 142Mass: 49 X.vel: -2.85533e-010 Y.vel: -1.41711e-010 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 143Mass: 50 X.vel: -8.70054e-011 Y.vel: -1.93931e-010 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 144Mass: 56 X.vel: 2.69859e-009 Y.vel: 2.27936e-010 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 145Mass: 54 X.vel: -6.9114e-011 Y.vel: -9.34598e-012 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 146Mass: 55 X.vel: -2.99365e-011 Y.vel: 2.11258e-010 gForce: 0.000084 Force Vector: X:0.000007 Y:0.000084
+
+Particle: 147Mass: 55 X.vel: -2.96391e-009 Y.vel: 7.80132e-011 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 148Mass: 74 X.vel: -1.30937e-010 Y.vel: 1.3068e-010 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 149Mass: 93 X.vel: 3.44233e-018 Y.vel: 4.31586e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 150Mass: 91 X.vel: 7.38844e-019 Y.vel: 9.64204e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 151Mass: 92 X.vel: 7.19064e-019 Y.vel: 1.03904e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 152Mass: 92 X.vel: 1.81973e-018 Y.vel: 2.39378e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 153Mass: 92 X.vel: 2.37675e-020 Y.vel: 3.25885e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 154Mass: 88 X.vel: 5.6425e-018 Y.vel: 8.43282e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 155Mass: 90 X.vel: 1.51012e-016 Y.vel: 5.24274e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 156Mass: 87 X.vel: 1.14577e-019 Y.vel: 2.043e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 157Mass: 93 X.vel: 7.58008e-020 Y.vel: 1.36075e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 158Mass: 86 X.vel: 7.98193e-019 Y.vel: 1.53926e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 159Mass: 87 X.vel: 4.60409e-019 Y.vel: 9.00395e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 160Mass: 93 X.vel: 2.103e-018 Y.vel: 4.36871e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 161Mass: 91 X.vel: 5.46563e-018 Y.vel: 9.03816e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 162Mass: 92 X.vel: 1.78714e-017 Y.vel: 5.67432e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 163Mass: 92 X.vel: 2.39927e-018 Y.vel: 4.98086e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 164Mass: 111 X.vel: 3.2409e-020 Y.vel: 4.9986e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 165Mass: 148 X.vel: -7.9581e-028 Y.vel: -5.80601e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 166Mass: 88 X.vel: -1.10538e-022 Y.vel: -1.93074e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 167Mass: 90 X.vel: -3.69869e-022 Y.vel: -2.90759e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 168Mass: 87 X.vel: -8.86783e-023 Y.vel: -7.69257e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 169Mass: 93 X.vel: -1.01822e-022 Y.vel: -8.6075e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 170Mass: 86 X.vel: -1.35194e-021 Y.vel: -1.2244e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 171Mass: 87 X.vel: -2.50995e-021 Y.vel: -2.22744e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 172Mass: 93 X.vel: -4.29306e-021 Y.vel: -2.93627e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 173Mass: 91 X.vel: -1.04137e-022 Y.vel: -6.08886e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 174Mass: 92 X.vel: 4.74216e-023 Y.vel: -4.5718e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 175Mass: 92 X.vel: -3.36817e-021 Y.vel: -2.03759e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 176Mass: 111 X.vel: -1.35741e-021 Y.vel: -1.43987e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 177Mass: 69 X.vel: -5.36152e-016 Y.vel: 2.25322e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 178Mass: 71 X.vel: 1.98072e-016 Y.vel: 9.06404e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 179Mass: 68 X.vel: -1.14558e-017 Y.vel: 2.88923e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 180Mass: 74 X.vel: -7.92399e-017 Y.vel: -5.56333e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 181Mass: 67 X.vel: -7.7204e-016 Y.vel: 1.58498e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 182Mass: 68 X.vel: 7.41115e-016 Y.vel: -1.40442e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 183Mass: 74 X.vel: 1.01968e-013 Y.vel: -3.27694e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 184Mass: 72 X.vel: -6.59977e-016 Y.vel: 3.17183e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 185Mass: 73 X.vel: -1.08441e-015 Y.vel: -5.55517e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 186Mass: 73 X.vel: -1.0232e-013 Y.vel: 3.33513e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 187Mass: 92 X.vel: 6.23157e-016 Y.vel: -9.37139e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 188Mass: 111 X.vel: -7.31282e-015 Y.vel: -4.4093e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 189Mass: 109 X.vel: -3.24291e-021 Y.vel: 3.8947e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 190Mass: 110 X.vel: -5.8388e-019 Y.vel: 1.75226e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 191Mass: 92 X.vel: 2.24753e-016 Y.vel: 5.90285e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 192Mass: 110 X.vel: 8.76039e-023 Y.vel: 1.24247e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 193Mass: 106 X.vel: -1.17755e-018 Y.vel: -8.02987e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 194Mass: 108 X.vel: -2.95586e-019 Y.vel: 3.22168e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 195Mass: 105 X.vel: 8.36682e-022 Y.vel: 2.95212e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 196Mass: 111 X.vel: 4.18621e-022 Y.vel: 3.65183e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 197Mass: 104 X.vel: 1.54627e-019 Y.vel: 1.77116e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 198Mass: 105 X.vel: -1.71191e-019 Y.vel: 3.72732e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 199Mass: 111 X.vel: -1.08565e-019 Y.vel: 6.77456e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 200Mass: 109 X.vel: -3.19517e-018 Y.vel: -1.80617e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 201Mass: 110 X.vel: -5.85884e-019 Y.vel: -2.05026e-019 gForce: 0.000001 Force Vector: X:0.000000 Y:0.000001
+
+Particle: 202Mass: 110 X.vel: -3.8951e-019 Y.vel: 3.41003e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 203Mass: 129 X.vel: 1.56975e-022 Y.vel: 2.81389e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 204Mass: 166 X.vel: 5.54862e-027 Y.vel: 7.46339e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 205Mass: 106 X.vel: -2.55825e-022 Y.vel: -2.38319e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 206Mass: 108 X.vel: -5.21235e-022 Y.vel: -3.69644e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 207Mass: 105 X.vel: -4.2265e-022 Y.vel: -9.97188e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 208Mass: 111 X.vel: -1.54637e-022 Y.vel: -2.562e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 209Mass: 104 X.vel: -5.79038e-020 Y.vel: 3.97574e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 210Mass: 105 X.vel: -1.67935e-019 Y.vel: -6.47025e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 211Mass: 111 X.vel: -9.47395e-020 Y.vel: -2.97193e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 212Mass: 109 X.vel: -1.92909e-020 Y.vel: 8.88688e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 213Mass: 110 X.vel: -2.95002e-022 Y.vel: 8.20271e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 214Mass: 110 X.vel: 4.68673e-020 Y.vel: -6.80571e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 215Mass: 129 X.vel: -2.32611e-020 Y.vel: -2.67869e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 216Mass: 166 X.vel: 6.89883e-028 Y.vel: -2.72046e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 217Mass: 69 X.vel: -1.037e-017 Y.vel: -3.69331e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 218Mass: 71 X.vel: -1.57701e-018 Y.vel: 1.00628e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 219Mass: 68 X.vel: 3.74228e-018 Y.vel: 2.58045e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 220Mass: 74 X.vel: -8.49611e-018 Y.vel: -3.43122e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 221Mass: 67 X.vel: -2.57077e-017 Y.vel: -2.07973e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 222Mass: 68 X.vel: 2.55576e-017 Y.vel: -3.20556e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 223Mass: 74 X.vel: 6.64557e-016 Y.vel: 2.75069e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 224Mass: 72 X.vel: -8.73149e-018 Y.vel: -1.20996e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 225Mass: 73 X.vel: -9.5478e-018 Y.vel: 7.456e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 226Mass: 73 X.vel: -6.49816e-016 Y.vel: 5.18138e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 227Mass: 92 X.vel: 6.12364e-018 Y.vel: 1.05232e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 228Mass: 111 X.vel: -5.76728e-021 Y.vel: -1.77014e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 229Mass: 109 X.vel: -5.53178e-022 Y.vel: -2.24785e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 230Mass: 110 X.vel: -3.25889e-022 Y.vel: -4.56323e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 231Mass: 92 X.vel: 2.25655e-018 Y.vel: 6.35097e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 232Mass: 110 X.vel: 2.61467e-021 Y.vel: -8.67544e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 233Mass: 106 X.vel: -6.22689e-022 Y.vel: 4.51587e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 234Mass: 108 X.vel: -3.92694e-022 Y.vel: 8.25137e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 235Mass: 105 X.vel: -7.27284e-022 Y.vel: -7.90479e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 236Mass: 111 X.vel: -5.25389e-022 Y.vel: -1.2374e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 237Mass: 104 X.vel: -4.16934e-022 Y.vel: -3.57394e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 238Mass: 105 X.vel: 1.6147e-023 Y.vel: 1.1552e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 239Mass: 111 X.vel: 8.08464e-021 Y.vel: -1.103e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 240Mass: 109 X.vel: 9.08968e-023 Y.vel: -4.80467e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 241Mass: 110 X.vel: 1.71588e-022 Y.vel: 7.67031e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 242Mass: 110 X.vel: -8.48533e-021 Y.vel: 2.97267e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 243Mass: 129 X.vel: -5.55874e-021 Y.vel: -1.58344e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 244Mass: 166 X.vel: 4.87021e-030 Y.vel: 5.65248e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 245Mass: 106 X.vel: -1.69438e-022 Y.vel: 7.58498e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 246Mass: 108 X.vel: -2.33072e-022 Y.vel: 7.72676e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 247Mass: 105 X.vel: -6.85526e-022 Y.vel: 5.26664e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 248Mass: 111 X.vel: -3.34276e-021 Y.vel: 1.27976e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 249Mass: 104 X.vel: -1.05569e-021 Y.vel: 5.9656e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 250Mass: 105 X.vel: -4.88374e-022 Y.vel: 2.06537e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 251Mass: 111 X.vel: 2.2527e-022 Y.vel: -1.62483e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 252Mass: 109 X.vel: -3.22786e-022 Y.vel: 1.61447e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 253Mass: 110 X.vel: -1.55686e-022 Y.vel: 7.94392e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 254Mass: 110 X.vel: -1.23115e-021 Y.vel: 1.77616e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 255Mass: 129 X.vel: -3.33178e-022 Y.vel: 7.00277e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 256Mass: 166 X.vel: 1.52296e-028 Y.vel: 2.55916e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 257Mass: 65 X.vel: -1.17165e-015 Y.vel: 8.16007e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 258Mass: 67 X.vel: 3.37304e-015 Y.vel: 4.08215e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 259Mass: 64 X.vel: -4.41778e-017 Y.vel: 6.16909e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 260Mass: 70 X.vel: -1.3549e-016 Y.vel: -1.36329e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 261Mass: 63 X.vel: -1.23074e-015 Y.vel: 4.74212e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 262Mass: 64 X.vel: 1.10303e-015 Y.vel: -3.56429e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 263Mass: 70 X.vel: 3.36047e-013 Y.vel: -2.66433e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 264Mass: 68 X.vel: -1.71642e-015 Y.vel: 1.60208e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 265Mass: 69 X.vel: -5.78877e-015 Y.vel: -6.43534e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 266Mass: 69 X.vel: -3.3868e-013 Y.vel: 2.69336e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 267Mass: 88 X.vel: 1.73122e-015 Y.vel: -9.64332e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 268Mass: 107 X.vel: -6.83329e-020 Y.vel: -1.38972e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 269Mass: 105 X.vel: -4.97602e-021 Y.vel: -7.4884e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 270Mass: 106 X.vel: -1.06909e-020 Y.vel: -8.10111e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 271Mass: 88 X.vel: 8.7666e-016 Y.vel: 1.58567e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 272Mass: 106 X.vel: -6.79021e-020 Y.vel: -1.77842e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 273Mass: 106 X.vel: 9.85577e-025 Y.vel: -1.12936e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 274Mass: 104 X.vel: 9.11712e-019 Y.vel: 2.08615e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 275Mass: 101 X.vel: 1.88957e-021 Y.vel: -8.98352e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 276Mass: 107 X.vel: 3.16852e-022 Y.vel: -1.6341e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 277Mass: 100 X.vel: 1.04084e-020 Y.vel: 6.91652e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 278Mass: 101 X.vel: -2.72583e-020 Y.vel: -1.67241e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 279Mass: 107 X.vel: -6.81338e-019 Y.vel: -1.8464e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 280Mass: 105 X.vel: -4.13679e-017 Y.vel: -2.19345e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 281Mass: 106 X.vel: -1.68323e-018 Y.vel: 7.54312e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 282Mass: 106 X.vel: 1.062e-019 Y.vel: 5.52506e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 283Mass: 125 X.vel: 4.53109e-024 Y.vel: -6.04631e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 284Mass: 102 X.vel: -1.19927e-024 Y.vel: -6.76901e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 285Mass: 104 X.vel: 7.9704e-022 Y.vel: 1.55465e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 286Mass: 101 X.vel: -2.00205e-022 Y.vel: -2.52575e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 287Mass: 107 X.vel: -4.4729e-023 Y.vel: -1.78233e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 288Mass: 100 X.vel: 1.29382e-021 Y.vel: -5.08458e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 289Mass: 101 X.vel: -1.61261e-020 Y.vel: -9.60083e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 290Mass: 107 X.vel: -7.59998e-021 Y.vel: -5.16505e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 291Mass: 105 X.vel: -8.03031e-022 Y.vel: -5.38332e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 292Mass: 106 X.vel: -8.91971e-023 Y.vel: 9.05367e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 293Mass: 106 X.vel: -1.90817e-020 Y.vel: -6.47699e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 294Mass: 125 X.vel: -4.73494e-021 Y.vel: 1.14987e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 295Mass: 162 X.vel: 6.89792e-027 Y.vel: 5.01626e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 296Mass: 67 X.vel: -3.3876e-016 Y.vel: -1.22322e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 297Mass: 69 X.vel: 4.37727e-015 Y.vel: -1.60462e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 298Mass: 66 X.vel: -1.39213e-017 Y.vel: 2.08439e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 299Mass: 72 X.vel: -2.25413e-017 Y.vel: -1.41717e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 300Mass: 65 X.vel: 6.39331e-017 Y.vel: -1.54615e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 301Mass: 66 X.vel: 7.28052e-017 Y.vel: -2.05778e-014 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 302Mass: 72 X.vel: 7.16427e-015 Y.vel: -1.95334e-012 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 303Mass: 70 X.vel: 2.33695e-016 Y.vel: 2.44927e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 304Mass: 71 X.vel: -4.30246e-015 Y.vel: 1.80592e-013 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 305Mass: 71 X.vel: 2.96389e-015 Y.vel: 1.79988e-012 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 306Mass: 90 X.vel: 2.78553e-016 Y.vel: 6.82506e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 307Mass: 109 X.vel: -7.10737e-022 Y.vel: 2.73e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 308Mass: 107 X.vel: -1.83674e-021 Y.vel: -2.02942e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 309Mass: 108 X.vel: -3.79654e-021 Y.vel: -1.05813e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 310Mass: 90 X.vel: -8.30324e-015 Y.vel: 1.42587e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 311Mass: 108 X.vel: -1.20802e-020 Y.vel: -7.34352e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 312Mass: 108 X.vel: 5.13884e-024 Y.vel: -3.82589e-024 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 313Mass: 104 X.vel: -1.00514e-019 Y.vel: 1.10305e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 314Mass: 103 X.vel: -1.02065e-022 Y.vel: -7.24591e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 315Mass: 109 X.vel: 2.04223e-022 Y.vel: -3.95143e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 316Mass: 102 X.vel: -5.98315e-020 Y.vel: -5.28184e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 317Mass: 103 X.vel: -5.25489e-021 Y.vel: -1.47247e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 318Mass: 109 X.vel: -6.10092e-020 Y.vel: -2.32242e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 319Mass: 107 X.vel: 3.25618e-019 Y.vel: -3.21425e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 320Mass: 108 X.vel: -1.67569e-019 Y.vel: -2.08255e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 321Mass: 108 X.vel: 1.89933e-019 Y.vel: -1.87004e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 322Mass: 127 X.vel: 8.71746e-024 Y.vel: -2.26681e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 323Mass: 164 X.vel: 2.90524e-028 Y.vel: 4.66119e-029 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 324Mass: 104 X.vel: 2.53854e-023 Y.vel: -2.16036e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 325Mass: 106 X.vel: -1.13022e-021 Y.vel: 6.26021e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 326Mass: 103 X.vel: -9.63235e-023 Y.vel: -1.70517e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 327Mass: 109 X.vel: -9.15653e-023 Y.vel: -1.12681e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 328Mass: 102 X.vel: -1.61106e-021 Y.vel: -1.77114e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 329Mass: 103 X.vel: 7.75883e-022 Y.vel: -1.03022e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 330Mass: 109 X.vel: -1.05757e-020 Y.vel: -1.01217e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 331Mass: 107 X.vel: -1.93901e-022 Y.vel: -6.26423e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 332Mass: 108 X.vel: 1.59591e-022 Y.vel: -1.12939e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 333Mass: 108 X.vel: -3.74622e-021 Y.vel: -1.51262e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 334Mass: 127 X.vel: -2.57298e-021 Y.vel: -5.79943e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 335Mass: 164 X.vel: 2.16221e-026 Y.vel: -3.67841e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 336Mass: 64 X.vel: 1.98379e-016 Y.vel: -1.12002e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 337Mass: 66 X.vel: -8.58905e-017 Y.vel: 5.00911e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 338Mass: 63 X.vel: -2.26737e-015 Y.vel: 1.66985e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 339Mass: 69 X.vel: 2.08784e-015 Y.vel: -1.89753e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 340Mass: 62 X.vel: -7.67042e-016 Y.vel: -3.36215e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 341Mass: 63 X.vel: 4.1838e-016 Y.vel: -8.05826e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 342Mass: 69 X.vel: 2.72709e-015 Y.vel: 1.3209e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 343Mass: 67 X.vel: -2.12932e-016 Y.vel: 1.61442e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 344Mass: 68 X.vel: -3.18588e-016 Y.vel: 1.05532e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 345Mass: 68 X.vel: -2.0617e-015 Y.vel: 2.11768e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 346Mass: 87 X.vel: -3.14172e-018 Y.vel: 1.5933e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 347Mass: 106 X.vel: -3.12987e-020 Y.vel: -2.38465e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 348Mass: 104 X.vel: -5.07069e-021 Y.vel: 5.34482e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 349Mass: 105 X.vel: -7.52888e-020 Y.vel: -7.78583e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 350Mass: 87 X.vel: 1.36635e-017 Y.vel: 8.63771e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 351Mass: 105 X.vel: 1.32369e-020 Y.vel: -2.36505e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 352Mass: 105 X.vel: -2.89364e-023 Y.vel: -1.73441e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 353Mass: 101 X.vel: 8.02923e-020 Y.vel: -3.78432e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 354Mass: 103 X.vel: -3.89515e-019 Y.vel: 3.09217e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 355Mass: 106 X.vel: -2.69119e-019 Y.vel: -4.32766e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 356Mass: 99 X.vel: -4.86628e-020 Y.vel: 1.62031e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 357Mass: 100 X.vel: -7.80038e-020 Y.vel: 5.27716e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 358Mass: 106 X.vel: -1.04798e-019 Y.vel: 2.47653e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 359Mass: 104 X.vel: -6.36033e-021 Y.vel: 9.0489e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 360Mass: 105 X.vel: -3.46769e-021 Y.vel: 3.41986e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 361Mass: 105 X.vel: -8.46818e-020 Y.vel: 1.61732e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 362Mass: 124 X.vel: -1.30356e-022 Y.vel: -3.03764e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 363Mass: 161 X.vel: -3.76279e-030 Y.vel: 1.04804e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 364Mass: 101 X.vel: -5.74577e-024 Y.vel: -6.32208e-024 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 365Mass: 103 X.vel: -2.9557e-022 Y.vel: 5.03938e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 366Mass: 100 X.vel: -7.50702e-022 Y.vel: 2.41059e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 367Mass: 106 X.vel: -2.28636e-022 Y.vel: -1.87829e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 368Mass: 99 X.vel: -2.94305e-021 Y.vel: -1.2328e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 369Mass: 100 X.vel: -3.33372e-021 Y.vel: -2.48197e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 370Mass: 106 X.vel: -1.01419e-021 Y.vel: -3.82823e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 371Mass: 104 X.vel: -7.69818e-023 Y.vel: -1.86206e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 372Mass: 105 X.vel: -9.0742e-023 Y.vel: 2.71823e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 373Mass: 105 X.vel: -3.03385e-021 Y.vel: -1.18772e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 374Mass: 124 X.vel: -1.04138e-021 Y.vel: -3.42795e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 375Mass: 161 X.vel: -1.67529e-027 Y.vel: -4.82762e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 376Mass: 70 X.vel: 2.74169e-016 Y.vel: -8.15489e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 377Mass: 72 X.vel: -5.37533e-017 Y.vel: 2.82023e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 378Mass: 69 X.vel: -1.56392e-015 Y.vel: 9.1656e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 379Mass: 75 X.vel: 1.44274e-015 Y.vel: -1.09731e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 380Mass: 68 X.vel: -5.71775e-016 Y.vel: -2.26169e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 381Mass: 69 X.vel: 2.70228e-016 Y.vel: -4.46242e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 382Mass: 75 X.vel: 1.82834e-015 Y.vel: 8.25134e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 383Mass: 73 X.vel: -1.58913e-016 Y.vel: 9.4219e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 384Mass: 74 X.vel: -3.47384e-016 Y.vel: 7.71652e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 385Mass: 74 X.vel: -1.31723e-015 Y.vel: 1.50239e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 386Mass: 93 X.vel: 1.53163e-017 Y.vel: 1.20862e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 387Mass: 112 X.vel: -3.31497e-020 Y.vel: -1.31596e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 388Mass: 110 X.vel: -4.88579e-021 Y.vel: 2.67778e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 389Mass: 111 X.vel: 2.40617e-021 Y.vel: 4.3533e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 390Mass: 93 X.vel: 9.20265e-018 Y.vel: 5.33167e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 391Mass: 111 X.vel: -2.99477e-020 Y.vel: -5.74638e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 392Mass: 111 X.vel: -4.0531e-023 Y.vel: -2.57257e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 393Mass: 107 X.vel: 2.77314e-020 Y.vel: 1.28462e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 394Mass: 109 X.vel: -5.50873e-020 Y.vel: 1.22787e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 395Mass: 106 X.vel: -4.61689e-020 Y.vel: 5.32982e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 396Mass: 105 X.vel: -1.36286e-020 Y.vel: 1.44157e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 397Mass: 106 X.vel: 1.42099e-019 Y.vel: -2.39012e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 398Mass: 112 X.vel: -9.7676e-021 Y.vel: -8.88954e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 399Mass: 110 X.vel: -4.84979e-021 Y.vel: 2.71684e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 400Mass: 111 X.vel: -3.06335e-021 Y.vel: 2.18879e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 401Mass: 111 X.vel: -7.01439e-020 Y.vel: -1.099e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 402Mass: 130 X.vel: -4.07679e-022 Y.vel: -9.16289e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 403Mass: 167 X.vel: 1.70702e-029 Y.vel: 7.61947e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 404Mass: 107 X.vel: -1.0384e-022 Y.vel: 3.64294e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 405Mass: 109 X.vel: -2.27249e-022 Y.vel: 1.97683e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 406Mass: 106 X.vel: -3.77745e-022 Y.vel: 1.10614e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 407Mass: 112 X.vel: -5.60625e-022 Y.vel: -1.57701e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 408Mass: 105 X.vel: -1.42584e-021 Y.vel: -1.02821e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 409Mass: 106 X.vel: -5.63546e-021 Y.vel: 7.53464e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 410Mass: 112 X.vel: -1.58499e-021 Y.vel: 3.55678e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 411Mass: 110 X.vel: -5.45341e-022 Y.vel: 2.74064e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 412Mass: 111 X.vel: -1.43629e-022 Y.vel: 3.15531e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 413Mass: 111 X.vel: -2.05401e-021 Y.vel: 1.15659e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 414Mass: 130 X.vel: -9.97984e-022 Y.vel: 4.14777e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 415Mass: 167 X.vel: 6.60586e-028 Y.vel: 4.53315e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 416Mass: 63 X.vel: 4.08182e-015 Y.vel: -5.57674e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 417Mass: 65 X.vel: -1.67458e-016 Y.vel: 3.03048e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 418Mass: 62 X.vel: 3.09473e-015 Y.vel: -1.15171e-014 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 419Mass: 68 X.vel: 1.15739e-014 Y.vel: -2.23878e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 420Mass: 61 X.vel: -1.60488e-014 Y.vel: -1.60211e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 421Mass: 62 X.vel: 2.01479e-015 Y.vel: -4.10578e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 422Mass: 68 X.vel: 1.95305e-014 Y.vel: 2.53019e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 423Mass: 66 X.vel: -1.64501e-015 Y.vel: 4.90903e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 424Mass: 67 X.vel: -4.72191e-015 Y.vel: 5.18494e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 425Mass: 67 X.vel: -4.21698e-015 Y.vel: 1.30755e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 426Mass: 86 X.vel: -1.16318e-014 Y.vel: 1.00007e-014 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 427Mass: 105 X.vel: 5.15969e-020 Y.vel: 1.11557e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 428Mass: 103 X.vel: -1.53884e-021 Y.vel: 3.84291e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 429Mass: 104 X.vel: -2.95497e-020 Y.vel: -8.54372e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 430Mass: 86 X.vel: 9.89925e-017 Y.vel: 1.54755e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 431Mass: 104 X.vel: -2.47264e-020 Y.vel: -9.33746e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 432Mass: 104 X.vel: -1.23801e-023 Y.vel: -4.50517e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 433Mass: 100 X.vel: -8.15739e-020 Y.vel: -1.85471e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 434Mass: 102 X.vel: -3.2965e-020 Y.vel: 2.18977e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 435Mass: 99 X.vel: -2.01713e-021 Y.vel: -6.76248e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 436Mass: 105 X.vel: -2.01452e-021 Y.vel: -1.5052e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 437Mass: 99 X.vel: 1.96748e-019 Y.vel: -1.9101e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 438Mass: 105 X.vel: -4.32432e-018 Y.vel: 2.7563e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 439Mass: 103 X.vel: 7.41098e-019 Y.vel: -4.20431e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 440Mass: 104 X.vel: -4.03633e-020 Y.vel: -2.68076e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 441Mass: 104 X.vel: -2.82427e-018 Y.vel: 9.39904e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 442Mass: 123 X.vel: -5.743e-023 Y.vel: -5.95945e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 443Mass: 100 X.vel: 6.38809e-022 Y.vel: 7.5437e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 444Mass: 102 X.vel: -4.20324e-022 Y.vel: 2.6409e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 445Mass: 99 X.vel: -1.94606e-022 Y.vel: -1.56029e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 446Mass: 105 X.vel: -1.86768e-022 Y.vel: -7.45758e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 447Mass: 98 X.vel: 1.91231e-020 Y.vel: -1.29009e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 448Mass: 99 X.vel: -8.79247e-021 Y.vel: 1.35716e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 449Mass: 105 X.vel: -5.64798e-021 Y.vel: 2.94777e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 450Mass: 103 X.vel: -5.20644e-022 Y.vel: 3.93457e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 451Mass: 104 X.vel: 1.07789e-022 Y.vel: 3.64952e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 452Mass: 104 X.vel: -4.42317e-021 Y.vel: -1.69405e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 453Mass: 123 X.vel: -3.35182e-021 Y.vel: 6.68061e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 454Mass: 160 X.vel: -7.78875e-028 Y.vel: 1.54426e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 455Mass: 64 X.vel: 1.61109e-015 Y.vel: -5.36948e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 456Mass: 66 X.vel: -4.72161e-017 Y.vel: 5.33711e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 457Mass: 63 X.vel: -1.05726e-015 Y.vel: -4.75348e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 458Mass: 69 X.vel: 4.52429e-015 Y.vel: -4.46985e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 459Mass: 62 X.vel: -1.22492e-014 Y.vel: -6.95734e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 460Mass: 63 X.vel: 1.06447e-015 Y.vel: -8.58873e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 461Mass: 69 X.vel: 1.13303e-014 Y.vel: 8.95601e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 462Mass: 67 X.vel: -9.4701e-016 Y.vel: 7.92961e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 463Mass: 68 X.vel: -2.02228e-015 Y.vel: 5.09354e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 464Mass: 68 X.vel: 4.08158e-016 Y.vel: 6.00626e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 465Mass: 87 X.vel: -3.06597e-015 Y.vel: 6.5314e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 466Mass: 106 X.vel: -5.9902e-020 Y.vel: 2.23416e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 467Mass: 104 X.vel: 3.3304e-021 Y.vel: -8.71058e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 468Mass: 105 X.vel: -4.44698e-020 Y.vel: -2.1417e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 469Mass: 87 X.vel: 5.69662e-017 Y.vel: 6.40959e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 470Mass: 105 X.vel: 3.99516e-020 Y.vel: -2.1396e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 471Mass: 105 X.vel: -1.3136e-023 Y.vel: -4.62713e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 472Mass: 101 X.vel: -4.55189e-020 Y.vel: 1.34893e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 473Mass: 103 X.vel: -3.66076e-020 Y.vel: 6.14067e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 474Mass: 100 X.vel: 6.9461e-021 Y.vel: -7.18419e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 475Mass: 106 X.vel: -1.31864e-020 Y.vel: -6.498e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 476Mass: 99 X.vel: -7.48008e-018 Y.vel: 1.09972e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 477Mass: 106 X.vel: -1.30094e-018 Y.vel: 5.3785e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 478Mass: 104 X.vel: -3.15764e-019 Y.vel: 3.9411e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 479Mass: 105 X.vel: -7.76364e-021 Y.vel: 5.69116e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 480Mass: 105 X.vel: -7.27142e-019 Y.vel: 8.27585e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 481Mass: 124 X.vel: -6.83702e-023 Y.vel: -6.64866e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 482Mass: 161 X.vel: -3.20073e-028 Y.vel: 1.03512e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 483Mass: 101 X.vel: -4.79111e-022 Y.vel: 1.69994e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 484Mass: 103 X.vel: -4.9431e-022 Y.vel: 9.13565e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 485Mass: 100 X.vel: -2.15102e-022 Y.vel: -1.49469e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 486Mass: 106 X.vel: -3.55237e-022 Y.vel: -1.04526e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 487Mass: 99 X.vel: -3.09144e-021 Y.vel: 1.85371e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 488Mass: 100 X.vel: -3.00339e-021 Y.vel: -1.53837e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 489Mass: 106 X.vel: -2.31698e-021 Y.vel: 3.08924e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 490Mass: 104 X.vel: 6.99205e-022 Y.vel: 8.03594e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 491Mass: 105 X.vel: -2.69877e-022 Y.vel: 2.19292e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 492Mass: 105 X.vel: -5.80044e-021 Y.vel: -4.39285e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 493Mass: 124 X.vel: -8.52807e-022 Y.vel: 2.4566e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 494Mass: 161 X.vel: -5.21888e-027 Y.vel: 4.63828e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 495Mass: 70 X.vel: 8.17081e-015 Y.vel: -4.04454e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 496Mass: 72 X.vel: -2.39939e-016 Y.vel: 4.91976e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 497Mass: 69 X.vel: -5.12306e-015 Y.vel: -4.50708e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 498Mass: 75 X.vel: 2.35486e-014 Y.vel: -4.50842e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 499Mass: 68 X.vel: -6.11923e-014 Y.vel: -6.23459e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 500Mass: 69 X.vel: 5.40274e-015 Y.vel: -7.32753e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 501Mass: 75 X.vel: 5.73416e-014 Y.vel: 8.31161e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 502Mass: 73 X.vel: -4.76549e-015 Y.vel: 1.13334e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 503Mass: 74 X.vel: -1.03005e-014 Y.vel: 4.01002e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 504Mass: 74 X.vel: 1.72286e-015 Y.vel: 5.45414e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 505Mass: 93 X.vel: -1.64177e-014 Y.vel: 6.51788e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 506Mass: 112 X.vel: -3.2734e-020 Y.vel: 5.16377e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 507Mass: 110 X.vel: 1.40493e-020 Y.vel: 3.08268e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 508Mass: 111 X.vel: 7.02682e-021 Y.vel: 2.20008e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 509Mass: 93 X.vel: 2.84603e-016 Y.vel: 9.96407e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 510Mass: 111 X.vel: -7.94136e-020 Y.vel: 3.62316e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 511Mass: 111 X.vel: 3.53142e-022 Y.vel: 6.01424e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 512Mass: 107 X.vel: -4.99669e-019 Y.vel: 2.74882e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 513Mass: 109 X.vel: -8.76167e-019 Y.vel: -1.16015e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 514Mass: 106 X.vel: 8.11521e-021 Y.vel: 1.54858e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 515Mass: 112 X.vel: 1.11307e-021 Y.vel: 2.44668e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 516Mass: 105 X.vel: -4.40801e-019 Y.vel: 2.44501e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 517Mass: 106 X.vel: -5.38035e-020 Y.vel: 9.4567e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 518Mass: 110 X.vel: -1.51976e-017 Y.vel: -2.54304e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 519Mass: 111 X.vel: -2.74382e-019 Y.vel: 9.37455e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 520Mass: 111 X.vel: -1.74017e-014 Y.vel: 7.08902e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 521Mass: 130 X.vel: 6.88018e-022 Y.vel: 1.19492e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 522Mass: 167 X.vel: 2.04184e-026 Y.vel: 3.34389e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 523Mass: 107 X.vel: -7.02418e-021 Y.vel: 2.23165e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 524Mass: 109 X.vel: -2.88746e-020 Y.vel: 3.49295e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 525Mass: 106 X.vel: 2.86828e-021 Y.vel: 5.49265e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 526Mass: 112 X.vel: 1.84876e-021 Y.vel: 3.52065e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 527Mass: 105 X.vel: 1.0891e-020 Y.vel: 8.12974e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 528Mass: 106 X.vel: 2.50618e-020 Y.vel: 8.97738e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 529Mass: 112 X.vel: -1.05752e-019 Y.vel: 2.21028e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 530Mass: 110 X.vel: -2.04766e-020 Y.vel: 6.02835e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 531Mass: 111 X.vel: -1.37686e-020 Y.vel: 1.81117e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 532Mass: 111 X.vel: -9.33523e-020 Y.vel: 1.98127e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 533Mass: 130 X.vel: -9.82921e-020 Y.vel: 6.26055e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 534Mass: 167 X.vel: 5.38962e-025 Y.vel: 5.74543e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 535Mass: 167 X.vel: -4.10019e-024 Y.vel: 2.68303e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 536Mass: 68 X.vel: -5.88372e-015 Y.vel: -5.72836e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 537Mass: 70 X.vel: -2.02907e-015 Y.vel: 5.59681e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 538Mass: 67 X.vel: 3.32062e-015 Y.vel: 4.17647e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 539Mass: 73 X.vel: -5.7392e-015 Y.vel: -4.61885e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 540Mass: 66 X.vel: -1.5646e-014 Y.vel: -1.31861e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 541Mass: 67 X.vel: 2.07148e-014 Y.vel: -1.8778e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 542Mass: 73 X.vel: 1.6836e-013 Y.vel: 1.46951e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 543Mass: 71 X.vel: -1.06944e-015 Y.vel: -7.472e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 544Mass: 72 X.vel: -1.44414e-015 Y.vel: 7.1244e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 545Mass: 72 X.vel: -1.60782e-013 Y.vel: 6.13062e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 546Mass: 91 X.vel: -1.26625e-015 Y.vel: 8.52606e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 547Mass: 110 X.vel: 3.68245e-020 Y.vel: 1.60015e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 548Mass: 108 X.vel: 3.20049e-021 Y.vel: -5.29332e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 549Mass: 109 X.vel: -7.84691e-021 Y.vel: -1.08577e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 550Mass: 91 X.vel: 7.54316e-016 Y.vel: 1.23222e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 551Mass: 109 X.vel: -2.68826e-020 Y.vel: -4.98346e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 552Mass: 109 X.vel: -1.53758e-023 Y.vel: -6.32108e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 553Mass: 105 X.vel: -9.98991e-020 Y.vel: -3.50564e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 554Mass: 107 X.vel: -2.07854e-018 Y.vel: 3.79734e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 555Mass: 104 X.vel: -5.05238e-021 Y.vel: 1.0889e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 556Mass: 110 X.vel: -7.31978e-022 Y.vel: -6.62548e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 557Mass: 103 X.vel: -2.36242e-019 Y.vel: -8.04696e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 558Mass: 104 X.vel: -2.823e-020 Y.vel: -4.93878e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 559Mass: 110 X.vel: 4.06817e-019 Y.vel: -9.55442e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 560Mass: 109 X.vel: -1.38075e-019 Y.vel: 2.91881e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 561Mass: 109 X.vel: 6.89076e-019 Y.vel: 3.06949e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 562Mass: 128 X.vel: -6.00904e-023 Y.vel: -1.13837e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 563Mass: 105 X.vel: -9.94332e-023 Y.vel: -9.21794e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 564Mass: 107 X.vel: -7.50407e-022 Y.vel: 3.3091e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 565Mass: 104 X.vel: 1.68947e-022 Y.vel: -1.92432e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 566Mass: 110 X.vel: 1.64211e-022 Y.vel: -3.23922e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 567Mass: 103 X.vel: -1.05239e-021 Y.vel: -1.58092e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 568Mass: 104 X.vel: -7.77263e-022 Y.vel: -1.10414e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 569Mass: 110 X.vel: -2.4696e-021 Y.vel: -3.77904e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 570Mass: 108 X.vel: -2.02572e-022 Y.vel: -1.30502e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 571Mass: 109 X.vel: -1.84914e-023 Y.vel: 1.50065e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 572Mass: 109 X.vel: -3.17207e-021 Y.vel: -7.02103e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 573Mass: 128 X.vel: -1.38268e-020 Y.vel: 9.98128e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 574Mass: 165 X.vel: 1.8515e-026 Y.vel: 1.57626e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 575Mass: 165 X.vel: 5.10827e-026 Y.vel: 8.14338e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 576Mass: 69 X.vel: -9.45063e-017 Y.vel: -1.23231e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 577Mass: 71 X.vel: 1.3266e-015 Y.vel: -2.08628e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 578Mass: 68 X.vel: 2.74058e-019 Y.vel: 2.76643e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 579Mass: 74 X.vel: 1.93392e-018 Y.vel: -1.69155e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 580Mass: 67 X.vel: -4.08891e-017 Y.vel: -1.6573e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 581Mass: 68 X.vel: 2.4968e-017 Y.vel: -2.48189e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 582Mass: 74 X.vel: 3.12503e-015 Y.vel: -2.39084e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 583Mass: 72 X.vel: -1.87205e-016 Y.vel: 3.48816e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 584Mass: 73 X.vel: -1.30677e-015 Y.vel: 2.32671e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 585Mass: 73 X.vel: -4.42925e-015 Y.vel: 2.29137e-013 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 586Mass: 92 X.vel: 8.63628e-017 Y.vel: 6.63758e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 587Mass: 111 X.vel: -2.1354e-019 Y.vel: -2.17283e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 588Mass: 109 X.vel: -1.05161e-020 Y.vel: -3.36676e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 589Mass: 110 X.vel: -3.87974e-021 Y.vel: -9.22667e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 590Mass: 92 X.vel: 1.22357e-015 Y.vel: 9.87887e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 591Mass: 110 X.vel: -6.23337e-020 Y.vel: -9.4861e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 592Mass: 110 X.vel: 7.23499e-024 Y.vel: -2.78924e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 593Mass: 106 X.vel: -9.88092e-019 Y.vel: -2.95615e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 594Mass: 108 X.vel: 8.84459e-019 Y.vel: -4.6085e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 595Mass: 105 X.vel: -6.32651e-022 Y.vel: -1.22113e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 596Mass: 111 X.vel: -1.02201e-022 Y.vel: -5.81657e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 597Mass: 104 X.vel: -3.15108e-020 Y.vel: -2.86577e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 598Mass: 105 X.vel: -7.90314e-021 Y.vel: -7.81134e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 599Mass: 111 X.vel: -1.12058e-019 Y.vel: -3.92183e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 600Mass: 109 X.vel: -1.19228e-019 Y.vel: -1.04904e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 601Mass: 110 X.vel: 3.39234e-021 Y.vel: -6.57255e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 602Mass: 129 X.vel: -1.52485e-023 Y.vel: -7.37829e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 603Mass: 166 X.vel: 3.24946e-028 Y.vel: -5.01234e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 604Mass: 106 X.vel: -1.42695e-022 Y.vel: -1.32451e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 605Mass: 108 X.vel: -2.14413e-023 Y.vel: -1.08474e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 606Mass: 105 X.vel: -1.11693e-022 Y.vel: -1.93681e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 607Mass: 111 X.vel: -5.20616e-023 Y.vel: -1.57109e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 608Mass: 104 X.vel: -1.01623e-020 Y.vel: -6.82848e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 609Mass: 105 X.vel: -6.54314e-021 Y.vel: -7.43592e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 610Mass: 111 X.vel: -6.9776e-021 Y.vel: 5.4058e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 611Mass: 109 X.vel: -6.23398e-022 Y.vel: -4.63674e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 612Mass: 110 X.vel: -2.2757e-022 Y.vel: -2.45192e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 613Mass: 110 X.vel: -2.1959e-020 Y.vel: 5.72591e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 614Mass: 129 X.vel: -3.12298e-021 Y.vel: -4.00788e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 615Mass: 166 X.vel: -1.20427e-027 Y.vel: -5.72177e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 616Mass: 166 X.vel: 4.95081e-027 Y.vel: 9.52917e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 617Mass: 69 X.vel: 8.87693e-015 Y.vel: -1.02424e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 618Mass: 71 X.vel: -2.64194e-016 Y.vel: 1.00061e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 619Mass: 68 X.vel: -4.35255e-015 Y.vel: -9.51161e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 620Mass: 74 X.vel: 2.56074e-014 Y.vel: -6.79802e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 621Mass: 67 X.vel: -6.39682e-014 Y.vel: -1.03259e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 622Mass: 68 X.vel: 5.77583e-015 Y.vel: -1.30483e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 623Mass: 74 X.vel: 6.09096e-014 Y.vel: 1.36542e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 624Mass: 72 X.vel: -5.06339e-015 Y.vel: 8.92309e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 625Mass: 73 X.vel: -1.11104e-014 Y.vel: 9.76476e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 626Mass: 73 X.vel: 7.67904e-016 Y.vel: 8.91263e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 627Mass: 92 X.vel: -1.86276e-014 Y.vel: 1.19018e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 628Mass: 111 X.vel: 9.51246e-020 Y.vel: -4.26348e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 629Mass: 109 X.vel: -2.16027e-020 Y.vel: -2.97149e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 630Mass: 110 X.vel: -3.09838e-020 Y.vel: -4.08799e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 631Mass: 92 X.vel: 3.08676e-016 Y.vel: 2.37562e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 632Mass: 110 X.vel: -3.72043e-020 Y.vel: -4.5869e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 633Mass: 110 X.vel: -3.87503e-022 Y.vel: -5.52707e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 634Mass: 106 X.vel: 5.22668e-019 Y.vel: -1.8327e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 635Mass: 108 X.vel: -2.85365e-019 Y.vel: -6.6081e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 636Mass: 105 X.vel: 4.14702e-021 Y.vel: -7.44089e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 637Mass: 111 X.vel: -2.70876e-021 Y.vel: -4.71764e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 638Mass: 104 X.vel: -3.52399e-019 Y.vel: -3.41493e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 639Mass: 105 X.vel: 4.1903e-020 Y.vel: -1.41013e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 640Mass: 111 X.vel: -1.5784e-015 Y.vel: -4.2373e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 641Mass: 109 X.vel: -9.41945e-016 Y.vel: -5.81806e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 642Mass: 110 X.vel: 1.63146e-019 Y.vel: 8.93318e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 643Mass: 129 X.vel: -7.87305e-022 Y.vel: -1.20525e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 644Mass: 166 X.vel: -2.08137e-026 Y.vel: -3.30217e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 645Mass: 106 X.vel: 6.70525e-021 Y.vel: -2.28765e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 646Mass: 108 X.vel: 2.83963e-020 Y.vel: -3.5623e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 647Mass: 105 X.vel: -3.3194e-021 Y.vel: -5.59469e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 648Mass: 111 X.vel: -2.45403e-021 Y.vel: -3.57146e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 649Mass: 104 X.vel: -1.30896e-020 Y.vel: -8.94692e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 650Mass: 105 X.vel: -3.36068e-020 Y.vel: -8.57274e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 651Mass: 111 X.vel: 9.63689e-020 Y.vel: -2.23858e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 652Mass: 109 X.vel: 1.9563e-020 Y.vel: -6.39162e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 653Mass: 110 X.vel: 1.31747e-020 Y.vel: -2.51124e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 654Mass: 110 X.vel: 8.02328e-020 Y.vel: -2.03881e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 655Mass: 129 X.vel: 9.74352e-020 Y.vel: -6.9452e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 656Mass: 166 X.vel: -5.86537e-025 Y.vel: -5.81109e-024 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 657Mass: 166 X.vel: 4.06534e-024 Y.vel: -2.70031e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 658Mass: 166 X.vel: -6.09352e-028 Y.vel: -3.06048e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 659Mass: 88 X.vel: -2.878e-017 Y.vel: -1.88396e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 660Mass: 90 X.vel: -6.87704e-018 Y.vel: 2.79189e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 661Mass: 87 X.vel: 2.06831e-017 Y.vel: 1.37309e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 662Mass: 93 X.vel: -3.51148e-017 Y.vel: -1.6449e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 663Mass: 86 X.vel: -7.48653e-017 Y.vel: -6.44502e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 664Mass: 87 X.vel: 8.6542e-017 Y.vel: -1.05044e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 665Mass: 93 X.vel: 1.13276e-015 Y.vel: 8.50214e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 666Mass: 91 X.vel: -1.33041e-017 Y.vel: -6.77247e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 667Mass: 92 X.vel: -1.5668e-017 Y.vel: 2.7481e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 668Mass: 92 X.vel: -1.08807e-015 Y.vel: 2.90343e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 669Mass: 111 X.vel: 3.95295e-018 Y.vel: 4.13127e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 670Mass: 130 X.vel: -6.25851e-021 Y.vel: 2.76795e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 671Mass: 128 X.vel: -1.49532e-021 Y.vel: 1.05939e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 672Mass: 129 X.vel: -1.49367e-021 Y.vel: -1.20158e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 673Mass: 111 X.vel: 4.46537e-018 Y.vel: 9.17428e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 674Mass: 129 X.vel: 4.38819e-021 Y.vel: 1.00457e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 675Mass: 129 X.vel: -6.36905e-022 Y.vel: -3.6987e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 676Mass: 125 X.vel: -7.20196e-022 Y.vel: 6.05243e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 677Mass: 127 X.vel: -3.12189e-021 Y.vel: 4.27194e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 678Mass: 124 X.vel: 1.37976e-021 Y.vel: -5.81302e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 679Mass: 130 X.vel: -1.50459e-020 Y.vel: -9.14066e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 680Mass: 123 X.vel: -2.31191e-021 Y.vel: 2.53297e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 681Mass: 124 X.vel: 5.36941e-021 Y.vel: -1.59302e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 682Mass: 130 X.vel: 1.22591e-020 Y.vel: -9.75678e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 683Mass: 128 X.vel: -7.03796e-022 Y.vel: -1.36406e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 684Mass: 129 X.vel: -1.11838e-021 Y.vel: 6.81401e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 685Mass: 129 X.vel: -1.50636e-020 Y.vel: 3.36863e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 686Mass: 185 X.vel: 8.47303e-030 Y.vel: 1.64935e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 687Mass: 125 X.vel: -1.43455e-022 Y.vel: 9.52272e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 688Mass: 127 X.vel: -2.10376e-022 Y.vel: 1.0936e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 689Mass: 124 X.vel: -1.21305e-021 Y.vel: 1.67492e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 690Mass: 130 X.vel: -3.75613e-021 Y.vel: -6.62242e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 691Mass: 123 X.vel: -7.90664e-022 Y.vel: 8.32328e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 692Mass: 124 X.vel: -1.39937e-021 Y.vel: 2.64175e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 693Mass: 130 X.vel: 3.07259e-021 Y.vel: -8.38613e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 694Mass: 128 X.vel: -1.64048e-021 Y.vel: 2.32024e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 695Mass: 129 X.vel: -1.61657e-022 Y.vel: 2.17457e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 696Mass: 129 X.vel: -4.74656e-021 Y.vel: 2.11406e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 697Mass: 148 X.vel: 6.29051e-022 Y.vel: 2.46675e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 698Mass: 185 X.vel: -3.50634e-028 Y.vel: 5.61839e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 699Mass: 185 X.vel: -1.49738e-027 Y.vel: 1.72435e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 700Mass: 185 X.vel: 4.78777e-029 Y.vel: 9.92546e-029 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 701Mass: 125 X.vel: -8.88114e-022 Y.vel: -4.0146e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 702Mass: 127 X.vel: -1.32883e-022 Y.vel: 8.80846e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 703Mass: 124 X.vel: 4.57273e-022 Y.vel: 2.85627e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 704Mass: 130 X.vel: -9.1931e-022 Y.vel: -3.75044e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 705Mass: 123 X.vel: -2.28137e-021 Y.vel: -1.91733e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 706Mass: 124 X.vel: 2.34748e-021 Y.vel: -3.03006e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 707Mass: 130 X.vel: 4.80726e-020 Y.vel: 2.73948e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 708Mass: 128 X.vel: -6.3489e-022 Y.vel: -1.55285e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 709Mass: 129 X.vel: -7.07297e-022 Y.vel: 7.36218e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 710Mass: 129 X.vel: -4.63805e-020 Y.vel: 6.54472e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 711Mass: 148 X.vel: 4.10857e-022 Y.vel: 1.08804e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 712Mass: 167 X.vel: -1.72659e-025 Y.vel: -3.05541e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 713Mass: 166 X.vel: 2.45703e-027 Y.vel: 8.92071e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 714Mass: 148 X.vel: 1.72724e-022 Y.vel: 4.42226e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 715Mass: 166 X.vel: 1.77726e-025 Y.vel: 3.23148e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 716Mass: 166 X.vel: 1.97289e-028 Y.vel: 1.20914e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 717Mass: 164 X.vel: -3.41801e-026 Y.vel: 1.13748e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 718Mass: 161 X.vel: 5.13719e-028 Y.vel: -1.92663e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 719Mass: 167 X.vel: 9.2099e-028 Y.vel: -1.26417e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 720Mass: 161 X.vel: 2.42094e-027 Y.vel: -1.66163e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 721Mass: 167 X.vel: 4.12606e-025 Y.vel: -2.06872e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 722Mass: 166 X.vel: -6.7186e-027 Y.vel: 1.5668e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 723Mass: 166 X.vel: -4.03339e-025 Y.vel: 1.66136e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 724Mass: 185 X.vel: 2.48755e-028 Y.vel: 1.60103e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 725Mass: 162 X.vel: 1.65565e-027 Y.vel: 6.01974e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 726Mass: 161 X.vel: -2.31639e-029 Y.vel: 6.12442e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 727Mass: 167 X.vel: 9.35184e-028 Y.vel: 4.98943e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 728Mass: 160 X.vel: 2.21125e-027 Y.vel: 5.56515e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 729Mass: 161 X.vel: 4.91135e-027 Y.vel: 2.7748e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 730Mass: 167 X.vel: 1.4535e-026 Y.vel: -6.70382e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 731Mass: 166 X.vel: -2.10123e-027 Y.vel: 5.02641e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 732Mass: 166 X.vel: -1.96042e-026 Y.vel: 7.34195e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 733Mass: 185 X.vel: -1.97073e-027 Y.vel: 1.99894e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 734Mass: 222 X.vel: -7.25488e-031 Y.vel: 3.07339e-031 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 735Mass: 222 X.vel: -8.44605e-031 Y.vel: 3.73898e-031 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 736Mass: 222 X.vel: -1.38901e-029 Y.vel: -1.81563e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 737Mass: 65 X.vel: -4.58019e-018 Y.vel: -3.50696e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 738Mass: 67 X.vel: 1.85276e-016 Y.vel: -4.34173e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 739Mass: 64 X.vel: -3.99047e-019 Y.vel: 4.52936e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 740Mass: 70 X.vel: -3.76818e-019 Y.vel: -1.97514e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 741Mass: 63 X.vel: -2.57353e-018 Y.vel: -1.34076e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 742Mass: 64 X.vel: 1.12438e-018 Y.vel: -3.24971e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 743Mass: 70 X.vel: 3.07074e-016 Y.vel: -3.44736e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 744Mass: 68 X.vel: -4.85039e-017 Y.vel: 6.64487e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 745Mass: 69 X.vel: -1.82261e-016 Y.vel: 4.62162e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 746Mass: 69 X.vel: -3.26943e-016 Y.vel: 3.45225e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 747Mass: 88 X.vel: 3.53568e-018 Y.vel: -1.17492e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 748Mass: 107 X.vel: 1.11898e-020 Y.vel: 7.21494e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 749Mass: 105 X.vel: -8.21158e-022 Y.vel: 7.97005e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 750Mass: 106 X.vel: -6.46375e-021 Y.vel: 3.34546e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 751Mass: 88 X.vel: 5.28693e-017 Y.vel: 1.64831e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 752Mass: 106 X.vel: -9.72115e-021 Y.vel: -7.44937e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 753Mass: 106 X.vel: -7.22678e-024 Y.vel: -3.77044e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 754Mass: 102 X.vel: 1.87783e-021 Y.vel: -4.95654e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 755Mass: 104 X.vel: 1.49233e-022 Y.vel: 2.96001e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 756Mass: 101 X.vel: 2.21488e-023 Y.vel: -1.96896e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 757Mass: 107 X.vel: 1.15174e-023 Y.vel: -1.34775e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 758Mass: 100 X.vel: -7.16601e-022 Y.vel: -8.27101e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 759Mass: 101 X.vel: 6.33847e-023 Y.vel: -1.60065e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 760Mass: 107 X.vel: -2.87566e-022 Y.vel: -1.54441e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 761Mass: 105 X.vel: 1.45042e-020 Y.vel: -4.34731e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 762Mass: 106 X.vel: -2.07912e-022 Y.vel: 3.30884e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 763Mass: 106 X.vel: 6.85418e-022 Y.vel: 1.2635e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 764Mass: 125 X.vel: 3.90359e-024 Y.vel: -8.41362e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 765Mass: 162 X.vel: 1.15742e-028 Y.vel: 1.17963e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 766Mass: 104 X.vel: 9.28138e-020 Y.vel: 2.91711e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 767Mass: 101 X.vel: 1.69412e-021 Y.vel: -3.04197e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 768Mass: 107 X.vel: -4.48326e-022 Y.vel: -1.06529e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 769Mass: 100 X.vel: -8.04271e-022 Y.vel: -1.29453e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 770Mass: 101 X.vel: -4.31571e-021 Y.vel: -1.40898e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 771Mass: 107 X.vel: 2.40825e-021 Y.vel: -2.38305e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 772Mass: 105 X.vel: 2.0026e-020 Y.vel: -1.42159e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 773Mass: 106 X.vel: 4.72037e-018 Y.vel: 1.58881e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 774Mass: 106 X.vel: 1.77285e-020 Y.vel: 2.94355e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 775Mass: 125 X.vel: 3.71753e-021 Y.vel: 6.07223e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 776Mass: 162 X.vel: 6.38533e-027 Y.vel: 1.56455e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 777Mass: 162 X.vel: 1.99728e-026 Y.vel: 8.37867e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 778Mass: 162 X.vel: 9.37408e-028 Y.vel: 1.12016e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 779Mass: 67 X.vel: -4.53033e-019 Y.vel: -3.25705e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 780Mass: 69 X.vel: 4.31067e-018 Y.vel: -3.9124e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 781Mass: 66 X.vel: -3.57821e-020 Y.vel: 5.60383e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 782Mass: 72 X.vel: -2.80755e-020 Y.vel: -3.72033e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 783Mass: 65 X.vel: -2.16627e-019 Y.vel: -3.88372e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 784Mass: 66 X.vel: 6.75594e-020 Y.vel: -5.30874e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 785Mass: 72 X.vel: 1.11424e-017 Y.vel: -5.04544e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 786Mass: 70 X.vel: -6.56912e-019 Y.vel: 6.734e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 787Mass: 71 X.vel: -4.29102e-018 Y.vel: 4.43374e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 788Mass: 71 X.vel: -1.93283e-017 Y.vel: 4.7429e-015 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 789Mass: 90 X.vel: 3.58233e-019 Y.vel: 1.8806e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 790Mass: 109 X.vel: 9.35115e-021 Y.vel: 1.85724e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 791Mass: 107 X.vel: -2.4262e-021 Y.vel: -3.50661e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 792Mass: 108 X.vel: -1.02206e-021 Y.vel: -1.69349e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 793Mass: 90 X.vel: 7.07343e-018 Y.vel: 2.90619e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 794Mass: 108 X.vel: -1.68673e-020 Y.vel: -6.97278e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 795Mass: 108 X.vel: -8.60791e-024 Y.vel: -3.22712e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 796Mass: 104 X.vel: 1.57093e-021 Y.vel: -1.07818e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 797Mass: 106 X.vel: 5.72957e-021 Y.vel: -5.9842e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 798Mass: 103 X.vel: -4.05125e-022 Y.vel: -4.69462e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 799Mass: 109 X.vel: -5.59256e-023 Y.vel: -2.45273e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 800Mass: 102 X.vel: -7.22067e-022 Y.vel: -9.26332e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 801Mass: 103 X.vel: -6.57383e-022 Y.vel: -1.24186e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 802Mass: 109 X.vel: -1.40089e-021 Y.vel: -1.88831e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 803Mass: 107 X.vel: -4.99495e-022 Y.vel: -1.47787e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 804Mass: 108 X.vel: 7.41558e-020 Y.vel: 7.25759e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 805Mass: 108 X.vel: 2.49754e-021 Y.vel: 1.72e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 806Mass: 127 X.vel: -1.47773e-023 Y.vel: -8.57705e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 807Mass: 104 X.vel: -4.91942e-021 Y.vel: -3.11976e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 808Mass: 103 X.vel: -2.27372e-021 Y.vel: -4.22911e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 809Mass: 109 X.vel: -1.05628e-021 Y.vel: -1.90162e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 810Mass: 102 X.vel: -6.38399e-021 Y.vel: -2.02592e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 811Mass: 103 X.vel: -2.13734e-021 Y.vel: -4.41448e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 812Mass: 109 X.vel: -1.00355e-020 Y.vel: -6.78349e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 813Mass: 107 X.vel: 3.80083e-019 Y.vel: -4.02384e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 814Mass: 108 X.vel: -6.7641e-021 Y.vel: 2.22409e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 815Mass: 108 X.vel: -1.1233e-019 Y.vel: 1.09777e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 816Mass: 127 X.vel: 3.09528e-019 Y.vel: -4.08561e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 817Mass: 164 X.vel: 2.80049e-027 Y.vel: -3.51406e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 818Mass: 164 X.vel: 2.62079e-027 Y.vel: -2.93133e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 819Mass: 64 X.vel: -4.4833e-017 Y.vel: 1.25485e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 820Mass: 66 X.vel: 3.54229e-018 Y.vel: 5.894e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 821Mass: 63 X.vel: -1.62257e-019 Y.vel: 2.7625e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 822Mass: 69 X.vel: -7.73891e-018 Y.vel: -4.92763e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 823Mass: 62 X.vel: -7.41973e-017 Y.vel: 3.95951e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 824Mass: 63 X.vel: 7.31773e-017 Y.vel: -1.12875e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 825Mass: 69 X.vel: 6.84279e-015 Y.vel: -1.38431e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 826Mass: 67 X.vel: -4.91114e-017 Y.vel: 1.77345e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 827Mass: 68 X.vel: -6.99343e-017 Y.vel: 1.39216e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 828Mass: 68 X.vel: -6.85878e-015 Y.vel: 1.43417e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 829Mass: 87 X.vel: 4.68501e-017 Y.vel: 1.38626e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 830Mass: 106 X.vel: -5.13995e-020 Y.vel: -2.37969e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 831Mass: 104 X.vel: -3.01247e-020 Y.vel: -3.74559e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 832Mass: 105 X.vel: -5.58817e-022 Y.vel: -3.59476e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 833Mass: 87 X.vel: 1.59029e-017 Y.vel: 4.84733e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 834Mass: 105 X.vel: 4.20509e-020 Y.vel: 9.21295e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 835Mass: 105 X.vel: -1.26129e-022 Y.vel: -1.43844e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 836Mass: 101 X.vel: -1.85535e-022 Y.vel: -2.51348e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 837Mass: 103 X.vel: -2.95111e-021 Y.vel: -2.46207e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 838Mass: 100 X.vel: 3.1339e-021 Y.vel: -6.53187e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 839Mass: 106 X.vel: -2.65907e-021 Y.vel: -2.07609e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 840Mass: 99 X.vel: -3.50089e-021 Y.vel: -4.93052e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 841Mass: 100 X.vel: -7.996e-023 Y.vel: -2.6589e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 842Mass: 106 X.vel: 7.40837e-020 Y.vel: -5.2589e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 843Mass: 104 X.vel: 1.4487e-021 Y.vel: -1.04801e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 844Mass: 105 X.vel: -6.01629e-021 Y.vel: -2.67955e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 845Mass: 105 X.vel: -5.78673e-020 Y.vel: 6.38457e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 846Mass: 124 X.vel: -4.74959e-022 Y.vel: -8.32365e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 847Mass: 161 X.vel: 9.44074e-032 Y.vel: 8.2287e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 848Mass: 101 X.vel: -3.07347e-021 Y.vel: 3.56165e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 849Mass: 103 X.vel: 3.07767e-019 Y.vel: 2.30717e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 850Mass: 106 X.vel: -1.4182e-019 Y.vel: -4.1749e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 851Mass: 99 X.vel: -3.40167e-020 Y.vel: -2.23492e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 852Mass: 100 X.vel: -7.61904e-021 Y.vel: -1.05411e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 853Mass: 106 X.vel: -2.08643e-021 Y.vel: -1.49546e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 854Mass: 104 X.vel: -6.18404e-021 Y.vel: 8.2696e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 855Mass: 105 X.vel: -1.7436e-021 Y.vel: -3.9449e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 856Mass: 105 X.vel: 5.46519e-021 Y.vel: -4.82188e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 857Mass: 124 X.vel: -4.24187e-021 Y.vel: -6.48559e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 858Mass: 161 X.vel: -9.51044e-028 Y.vel: -1.91285e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 859Mass: 161 X.vel: -5.75792e-027 Y.vel: -7.35125e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 860Mass: 161 X.vel: -7.26309e-029 Y.vel: -4.23924e-029 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 861Mass: 70 X.vel: -3.94804e-017 Y.vel: 3.56487e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 862Mass: 72 X.vel: -1.8153e-018 Y.vel: 3.99316e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 863Mass: 69 X.vel: 9.8495e-019 Y.vel: 3.22478e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 864Mass: 75 X.vel: -9.925e-018 Y.vel: -5.33101e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 865Mass: 68 X.vel: -7.83393e-017 Y.vel: -1.47023e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 866Mass: 69 X.vel: 7.8992e-017 Y.vel: -9.69045e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 867Mass: 75 X.vel: 4.56572e-015 Y.vel: -4.03081e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 868Mass: 73 X.vel: -3.84798e-017 Y.vel: 9.69224e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 869Mass: 74 X.vel: -4.83191e-017 Y.vel: 8.42625e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 870Mass: 74 X.vel: -4.55409e-015 Y.vel: 4.57468e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 871Mass: 93 X.vel: 3.58068e-017 Y.vel: 1.09054e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 872Mass: 112 X.vel: -2.6551e-020 Y.vel: -1.3108e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 873Mass: 110 X.vel: -1.14642e-020 Y.vel: -1.05408e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 874Mass: 111 X.vel: -1.64242e-021 Y.vel: -2.62923e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 875Mass: 93 X.vel: 1.15474e-017 Y.vel: 3.94358e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 876Mass: 111 X.vel: 2.51778e-020 Y.vel: 2.64758e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 877Mass: 111 X.vel: -6.65139e-023 Y.vel: -1.68273e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 878Mass: 107 X.vel: -1.67627e-021 Y.vel: -2.29209e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 879Mass: 109 X.vel: -1.59046e-021 Y.vel: -4.98182e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 880Mass: 106 X.vel: 5.29996e-022 Y.vel: 6.40002e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 881Mass: 112 X.vel: -1.09395e-020 Y.vel: -3.40131e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 882Mass: 105 X.vel: -2.17837e-021 Y.vel: -3.82519e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 883Mass: 106 X.vel: -1.04571e-021 Y.vel: -3.55897e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 884Mass: 112 X.vel: 5.71273e-020 Y.vel: -3.41131e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 885Mass: 110 X.vel: -3.0244e-021 Y.vel: 3.53625e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 886Mass: 111 X.vel: -2.06027e-021 Y.vel: -1.24936e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 887Mass: 111 X.vel: -6.05731e-020 Y.vel: 2.26364e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 888Mass: 130 X.vel: -2.26759e-021 Y.vel: -2.4803e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 889Mass: 167 X.vel: 3.3266e-029 Y.vel: 4.30446e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 890Mass: 107 X.vel: 1.16805e-022 Y.vel: -2.3825e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 891Mass: 109 X.vel: 2.37359e-020 Y.vel: 1.2057e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 892Mass: 106 X.vel: 1.23358e-017 Y.vel: -9.53327e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 893Mass: 105 X.vel: -1.37631e-020 Y.vel: -1.54657e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 894Mass: 106 X.vel: -5.88228e-021 Y.vel: -7.26389e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 895Mass: 112 X.vel: -9.40963e-021 Y.vel: -1.0551e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 896Mass: 110 X.vel: 7.30923e-021 Y.vel: 2.12575e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 897Mass: 111 X.vel: -1.46674e-021 Y.vel: -1.06836e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 898Mass: 111 X.vel: -1.28024e-020 Y.vel: 4.35262e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 899Mass: 130 X.vel: -4.21062e-021 Y.vel: -1.23285e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 900Mass: 167 X.vel: 1.58405e-027 Y.vel: 2.18627e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 901Mass: 167 X.vel: 6.47857e-027 Y.vel: 1.24036e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 902Mass: 167 X.vel: 2.19015e-028 Y.vel: 3.27502e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 903Mass: 63 X.vel: -1.11451e-016 Y.vel: 7.89326e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 904Mass: 65 X.vel: 3.74492e-016 Y.vel: 4.13865e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 905Mass: 62 X.vel: -4.2105e-018 Y.vel: 5.95548e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 906Mass: 68 X.vel: -1.26022e-017 Y.vel: -1.32695e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 907Mass: 61 X.vel: -1.14147e-016 Y.vel: 4.36267e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 908Mass: 62 X.vel: 1.01634e-016 Y.vel: -3.43947e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 909Mass: 68 X.vel: 3.23978e-014 Y.vel: -2.75213e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 910Mass: 66 X.vel: -1.63515e-016 Y.vel: 1.60173e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 911Mass: 67 X.vel: -6.05054e-016 Y.vel: -6.80189e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 912Mass: 67 X.vel: -3.26728e-014 Y.vel: 2.78313e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 913Mass: 86 X.vel: 1.65992e-016 Y.vel: -9.90223e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 914Mass: 105 X.vel: -5.07727e-018 Y.vel: 1.24828e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 915Mass: 103 X.vel: 2.96029e-021 Y.vel: -3.07833e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 916Mass: 104 X.vel: -9.01409e-021 Y.vel: -6.39902e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 917Mass: 86 X.vel: 8.76172e-017 Y.vel: 1.57429e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 918Mass: 104 X.vel: 5.74994e-018 Y.vel: -1.52869e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 919Mass: 104 X.vel: -1.10589e-023 Y.vel: -2.45993e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 920Mass: 100 X.vel: 1.30134e-021 Y.vel: 3.58912e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 921Mass: 102 X.vel: -6.31287e-020 Y.vel: -4.78817e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 922Mass: 99 X.vel: -1.71162e-020 Y.vel: -1.53737e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 923Mass: 105 X.vel: -4.50085e-023 Y.vel: -9.67348e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 924Mass: 98 X.vel: 5.48981e-021 Y.vel: 1.38427e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 925Mass: 99 X.vel: -8.08641e-020 Y.vel: 1.20781e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 926Mass: 105 X.vel: 2.78766e-020 Y.vel: -1.51225e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 927Mass: 103 X.vel: -1.16682e-019 Y.vel: 1.25303e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 928Mass: 104 X.vel: 9.47636e-022 Y.vel: -5.47449e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 929Mass: 104 X.vel: -2.81421e-021 Y.vel: 1.31994e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 930Mass: 123 X.vel: 2.62603e-023 Y.vel: -1.37228e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 931Mass: 160 X.vel: 3.82399e-028 Y.vel: 1.94461e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 932Mass: 100 X.vel: 3.97386e-022 Y.vel: 7.41031e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 933Mass: 102 X.vel: -5.14316e-021 Y.vel: 2.53324e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 934Mass: 99 X.vel: -1.37652e-021 Y.vel: -1.24812e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 935Mass: 105 X.vel: -4.5868e-022 Y.vel: -8.87877e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 936Mass: 99 X.vel: 5.42399e-019 Y.vel: 3.35899e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 937Mass: 105 X.vel: -3.81657e-019 Y.vel: -1.77808e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 938Mass: 103 X.vel: -7.00413e-020 Y.vel: 6.73541e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 939Mass: 104 X.vel: -2.09174e-022 Y.vel: 6.01357e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 940Mass: 104 X.vel: 7.0135e-020 Y.vel: -1.71496e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 941Mass: 123 X.vel: 8.28482e-019 Y.vel: -2.14297e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 942Mass: 160 X.vel: -2.10247e-027 Y.vel: 4.00506e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 943Mass: 64 X.vel: -2.39017e-016 Y.vel: 9.77182e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 944Mass: 66 X.vel: 7.78978e-017 Y.vel: 3.98519e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 945Mass: 63 X.vel: -3.46562e-018 Y.vel: 1.317e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 946Mass: 69 X.vel: -3.46188e-017 Y.vel: -2.48398e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 947Mass: 62 X.vel: -3.47884e-016 Y.vel: 6.55652e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 948Mass: 63 X.vel: 3.36949e-016 Y.vel: -6.23683e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 949Mass: 69 X.vel: 4.47327e-014 Y.vel: -1.37986e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 950Mass: 67 X.vel: -2.9163e-016 Y.vel: 1.36698e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 951Mass: 68 X.vel: -4.72432e-016 Y.vel: -2.10757e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 952Mass: 68 X.vel: -4.49219e-014 Y.vel: 1.4069e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 953Mass: 87 X.vel: 2.77137e-016 Y.vel: -3.64272e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 954Mass: 106 X.vel: -1.49148e-018 Y.vel: -1.32547e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 955Mass: 104 X.vel: -1.37822e-019 Y.vel: 3.02564e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 956Mass: 105 X.vel: 3.78378e-020 Y.vel: -9.98441e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 957Mass: 87 X.vel: 1.00932e-016 Y.vel: 2.67989e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 958Mass: 105 X.vel: 1.50085e-018 Y.vel: -7.51873e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 959Mass: 105 X.vel: -1.74442e-023 Y.vel: -1.95574e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 960Mass: 101 X.vel: -7.80934e-020 Y.vel: -7.42109e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 961Mass: 103 X.vel: 6.10214e-019 Y.vel: -1.89091e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 962Mass: 100 X.vel: -1.67787e-021 Y.vel: -2.96911e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 963Mass: 106 X.vel: 1.37181e-021 Y.vel: -1.02503e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 964Mass: 99 X.vel: 1.571e-018 Y.vel: 4.48376e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 965Mass: 100 X.vel: 8.84091e-021 Y.vel: -1.12073e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 966Mass: 106 X.vel: 1.03257e-019 Y.vel: -2.60235e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 967Mass: 104 X.vel: -2.49098e-020 Y.vel: -3.30146e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 968Mass: 105 X.vel: -9.71908e-020 Y.vel: 3.26717e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 969Mass: 105 X.vel: -8.54766e-020 Y.vel: 3.67332e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 970Mass: 124 X.vel: -3.70236e-023 Y.vel: -8.81227e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 971Mass: 161 X.vel: 1.99908e-028 Y.vel: 2.26757e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 972Mass: 101 X.vel: -1.05595e-021 Y.vel: -7.95e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 973Mass: 103 X.vel: -4.53803e-022 Y.vel: 2.16766e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 974Mass: 100 X.vel: -6.93012e-022 Y.vel: -5.24004e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 975Mass: 106 X.vel: -1.59047e-022 Y.vel: -3.34587e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 976Mass: 99 X.vel: -5.85239e-020 Y.vel: -2.15974e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 977Mass: 106 X.vel: 2.06431e-018 Y.vel: -1.85499e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 978Mass: 104 X.vel: -4.34471e-021 Y.vel: 9.00756e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 979Mass: 105 X.vel: -8.91746e-022 Y.vel: 6.24202e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 980Mass: 105 X.vel: -3.63605e-018 Y.vel: -6.45011e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 981Mass: 124 X.vel: -1.14352e-020 Y.vel: -6.40816e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 982Mass: 161 X.vel: -1.81162e-026 Y.vel: 1.53259e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 983Mass: 161 X.vel: -6.16975e-026 Y.vel: 3.04843e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 984Mass: 161 X.vel: 6.81381e-029 Y.vel: 2.00163e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 985Mass: 70 X.vel: -1.5562e-016 Y.vel: 1.04125e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 986Mass: 72 X.vel: 2.06402e-015 Y.vel: 8.19426e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 987Mass: 69 X.vel: -7.61062e-018 Y.vel: 8.02773e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 988Mass: 75 X.vel: -1.40006e-017 Y.vel: -2.12282e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 989Mass: 68 X.vel: -1.06275e-016 Y.vel: 1.45908e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 990Mass: 69 X.vel: 8.42962e-017 Y.vel: -4.88825e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 991Mass: 75 X.vel: 3.31763e-014 Y.vel: -5.85988e-014 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 992Mass: 73 X.vel: -1.97323e-016 Y.vel: 2.53726e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 993Mass: 74 X.vel: -2.25547e-015 Y.vel: -1.88071e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 994Mass: 74 X.vel: -3.34727e-014 Y.vel: 5.919e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 995Mass: 93 X.vel: 1.85557e-016 Y.vel: -1.98235e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 996Mass: 112 X.vel: 4.51127e-019 Y.vel: 7.28233e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 997Mass: 110 X.vel: -3.43126e-020 Y.vel: 1.92747e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 998Mass: 111 X.vel: -1.95389e-020 Y.vel: -8.28616e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 999Mass: 93 X.vel: 1.94151e-016 Y.vel: 5.92977e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1000Mass: 111 X.vel: -9.50029e-020 Y.vel: -4.04211e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1001Mass: 111 X.vel: -8.57953e-023 Y.vel: -6.00562e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1002Mass: 107 X.vel: 2.3386e-019 Y.vel: -1.63928e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1003Mass: 109 X.vel: -1.44568e-020 Y.vel: -9.44577e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1004Mass: 106 X.vel: -2.34808e-021 Y.vel: -7.59611e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1005Mass: 112 X.vel: -9.91167e-022 Y.vel: 1.37703e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1006Mass: 105 X.vel: -6.32304e-021 Y.vel: 1.93641e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1007Mass: 106 X.vel: -1.84957e-020 Y.vel: 2.4607e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1008Mass: 112 X.vel: 1.49494e-019 Y.vel: 3.18572e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1009Mass: 110 X.vel: 2.02535e-019 Y.vel: 4.51792e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1010Mass: 111 X.vel: 1.33828e-019 Y.vel: -2.72807e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1011Mass: 111 X.vel: 6.0443e-020 Y.vel: 1.32937e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1012Mass: 130 X.vel: -4.92432e-022 Y.vel: -3.40833e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1013Mass: 167 X.vel: -3.1773e-027 Y.vel: -1.90864e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1014Mass: 107 X.vel: -3.20531e-022 Y.vel: -1.71842e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1015Mass: 109 X.vel: -1.33484e-021 Y.vel: 4.59672e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1016Mass: 106 X.vel: -9.21028e-022 Y.vel: -6.62886e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1017Mass: 112 X.vel: -5.02303e-022 Y.vel: -6.10387e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1018Mass: 105 X.vel: 3.27117e-020 Y.vel: -4.72534e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1019Mass: 106 X.vel: -4.50983e-019 Y.vel: -1.76383e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1020Mass: 110 X.vel: -3.63329e-021 Y.vel: 1.22419e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1021Mass: 111 X.vel: -8.48246e-022 Y.vel: -3.00872e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1022Mass: 111 X.vel: -1.61901e-017 Y.vel: -6.18988e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1023Mass: 130 X.vel: 6.69162e-020 Y.vel: 6.29696e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1024Mass: 167 X.vel: -7.75281e-027 Y.vel: -2.25272e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1025Mass: 167 X.vel: -2.48774e-026 Y.vel: -5.97153e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1026Mass: 167 X.vel: -4.3688e-026 Y.vel: -2.36992e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1027Mass: 68 X.vel: -2.63875e-017 Y.vel: 1.58971e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1028Mass: 70 X.vel: 1.576e-015 Y.vel: -8.72636e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1029Mass: 67 X.vel: -1.70024e-018 Y.vel: 1.61751e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1030Mass: 73 X.vel: -2.00489e-018 Y.vel: -5.59459e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1031Mass: 66 X.vel: -1.31442e-017 Y.vel: -2.14317e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1032Mass: 67 X.vel: 7.81005e-018 Y.vel: -1.04755e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1033Mass: 73 X.vel: 2.56523e-015 Y.vel: -1.23148e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1034Mass: 71 X.vel: -1.15541e-016 Y.vel: 4.83982e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1035Mass: 72 X.vel: -1.55168e-015 Y.vel: 9.83805e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1036Mass: 72 X.vel: -2.61303e-015 Y.vel: 1.24234e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1037Mass: 91 X.vel: 1.94217e-017 Y.vel: -2.69334e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1038Mass: 110 X.vel: 4.9374e-020 Y.vel: 2.17139e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1039Mass: 108 X.vel: -2.3869e-020 Y.vel: -1.41136e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1040Mass: 109 X.vel: -1.34594e-020 Y.vel: -2.57072e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1041Mass: 91 X.vel: 1.21953e-016 Y.vel: 4.53633e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1042Mass: 109 X.vel: -3.47816e-020 Y.vel: -2.39176e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1043Mass: 109 X.vel: -1.12073e-023 Y.vel: -2.5502e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1044Mass: 105 X.vel: 2.12773e-020 Y.vel: -2.90979e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1045Mass: 107 X.vel: 3.50176e-021 Y.vel: -3.51807e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1046Mass: 104 X.vel: -3.83737e-022 Y.vel: -7.45118e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1047Mass: 110 X.vel: -2.48344e-022 Y.vel: -3.63026e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1048Mass: 103 X.vel: -1.99249e-021 Y.vel: 3.31804e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1049Mass: 104 X.vel: -3.43514e-021 Y.vel: -1.19677e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1050Mass: 110 X.vel: -3.96186e-020 Y.vel: -1.78353e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1051Mass: 108 X.vel: 1.80864e-019 Y.vel: -9.76101e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1052Mass: 109 X.vel: -1.52852e-020 Y.vel: 2.37333e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1053Mass: 109 X.vel: -2.25705e-020 Y.vel: 1.70133e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1054Mass: 128 X.vel: -1.07974e-023 Y.vel: -1.15127e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1055Mass: 105 X.vel: 7.85133e-022 Y.vel: -1.0724e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1056Mass: 107 X.vel: -8.73966e-020 Y.vel: -2.56163e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1057Mass: 104 X.vel: -6.25395e-021 Y.vel: 7.7088e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1058Mass: 110 X.vel: -1.48129e-021 Y.vel: -5.74391e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1059Mass: 103 X.vel: 9.33337e-020 Y.vel: -1.52268e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1060Mass: 104 X.vel: -9.43238e-021 Y.vel: -5.47652e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1061Mass: 110 X.vel: 1.3478e-019 Y.vel: 1.30261e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1062Mass: 109 X.vel: -5.87498e-022 Y.vel: 1.18197e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1063Mass: 109 X.vel: 6.77557e-020 Y.vel: 7.32853e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1064Mass: 128 X.vel: -2.53784e-020 Y.vel: -1.38601e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1065Mass: 165 X.vel: 4.05042e-028 Y.vel: -1.22517e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1066Mass: 165 X.vel: -6.51953e-028 Y.vel: -1.62024e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1067Mass: 165 X.vel: -1.48305e-027 Y.vel: 3.12728e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1068Mass: 69 X.vel: -6.73226e-019 Y.vel: -1.69202e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1069Mass: 71 X.vel: 7.11606e-018 Y.vel: -2.33366e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1070Mass: 68 X.vel: -5.78676e-020 Y.vel: 3.26613e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1071Mass: 74 X.vel: -4.45967e-020 Y.vel: -2.09416e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1072Mass: 67 X.vel: -3.61185e-019 Y.vel: -2.10616e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1073Mass: 68 X.vel: 1.021e-019 Y.vel: -3.01612e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1074Mass: 74 X.vel: 1.92046e-017 Y.vel: -2.88142e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1075Mass: 72 X.vel: -1.28632e-018 Y.vel: 4.02519e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1076Mass: 73 X.vel: -7.0912e-018 Y.vel: 2.62821e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1077Mass: 73 X.vel: -3.13524e-017 Y.vel: 2.73983e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1078Mass: 92 X.vel: 5.32647e-019 Y.vel: 9.59302e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1079Mass: 111 X.vel: 1.05477e-020 Y.vel: 3.76021e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1080Mass: 109 X.vel: -9.3696e-022 Y.vel: -4.17514e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1081Mass: 110 X.vel: -2.23385e-021 Y.vel: -1.54075e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1082Mass: 92 X.vel: 1.08165e-017 Y.vel: 1.38882e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1083Mass: 110 X.vel: -8.83778e-021 Y.vel: -4.07624e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1084Mass: 110 X.vel: -6.52638e-024 Y.vel: -3.47227e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1085Mass: 106 X.vel: 2.42027e-022 Y.vel: -2.96818e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1086Mass: 108 X.vel: 7.2557e-022 Y.vel: 3.79018e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1087Mass: 105 X.vel: 1.38932e-023 Y.vel: -1.71286e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1088Mass: 111 X.vel: 6.51773e-024 Y.vel: -1.27273e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1089Mass: 104 X.vel: 2.05327e-023 Y.vel: 6.10839e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1090Mass: 105 X.vel: 3.39544e-023 Y.vel: -3.72666e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1091Mass: 111 X.vel: -2.80511e-022 Y.vel: -7.37501e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1092Mass: 109 X.vel: -1.58457e-021 Y.vel: -1.5083e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1093Mass: 110 X.vel: 7.10247e-022 Y.vel: 7.74861e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1094Mass: 110 X.vel: 1.14594e-021 Y.vel: 1.29464e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1095Mass: 129 X.vel: -4.93905e-024 Y.vel: -8.12654e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1096Mass: 166 X.vel: -4.41165e-029 Y.vel: -1.28017e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1097Mass: 106 X.vel: -7.91684e-019 Y.vel: -5.14179e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1098Mass: 108 X.vel: 8.91302e-020 Y.vel: -5.2501e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1099Mass: 105 X.vel: -2.45942e-022 Y.vel: -1.5926e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1100Mass: 111 X.vel: -1.86496e-022 Y.vel: -9.96959e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1101Mass: 104 X.vel: -2.79723e-021 Y.vel: -2.53475e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1102Mass: 105 X.vel: -3.21776e-022 Y.vel: 9.41186e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1103Mass: 111 X.vel: 2.78516e-021 Y.vel: -1.52279e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1104Mass: 109 X.vel: 3.65364e-021 Y.vel: -6.61714e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1105Mass: 110 X.vel: -1.17569e-021 Y.vel: 5.45139e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1106Mass: 129 X.vel: 4.51457e-021 Y.vel: -2.29479e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1107Mass: 166 X.vel: -5.43511e-027 Y.vel: -1.52241e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1108Mass: 166 X.vel: -1.70082e-026 Y.vel: -8.11111e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1109Mass: 166 X.vel: -1.31786e-028 Y.vel: -8.60577e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1110Mass: 69 X.vel: -1.38292e-016 Y.vel: 9.06135e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1111Mass: 71 X.vel: 2.08045e-015 Y.vel: 7.10326e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1112Mass: 68 X.vel: -6.7619e-018 Y.vel: 7.02536e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1113Mass: 74 X.vel: -1.19625e-017 Y.vel: -1.89255e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1114Mass: 67 X.vel: -8.9419e-017 Y.vel: 6.07346e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1115Mass: 68 X.vel: 6.97506e-017 Y.vel: -4.2911e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1116Mass: 74 X.vel: 2.74319e-014 Y.vel: -5.21771e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1117Mass: 72 X.vel: -1.74434e-016 Y.vel: 2.19829e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1118Mass: 73 X.vel: -2.229e-015 Y.vel: -1.47991e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1119Mass: 73 X.vel: -2.76883e-014 Y.vel: 5.27126e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1120Mass: 92 X.vel: 1.55698e-016 Y.vel: -1.74427e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1121Mass: 111 X.vel: 3.24237e-019 Y.vel: 3.05426e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1122Mass: 109 X.vel: -1.1587e-021 Y.vel: -5.19063e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1123Mass: 110 X.vel: -3.1227e-020 Y.vel: -4.03663e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1124Mass: 92 X.vel: 1.81079e-016 Y.vel: 5.80576e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1125Mass: 110 X.vel: -8.60072e-020 Y.vel: -9.3445e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1126Mass: 110 X.vel: 6.53189e-023 Y.vel: 3.6949e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1127Mass: 106 X.vel: 1.14548e-019 Y.vel: -1.48593e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1128Mass: 108 X.vel: -3.18988e-020 Y.vel: 1.64047e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1129Mass: 105 X.vel: -1.70481e-021 Y.vel: -5.63049e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1130Mass: 111 X.vel: 3.37485e-022 Y.vel: -3.06555e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1131Mass: 104 X.vel: -1.53895e-020 Y.vel: -8.97228e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1132Mass: 105 X.vel: -2.41335e-020 Y.vel: 2.66783e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1133Mass: 111 X.vel: 3.5525e-020 Y.vel: -1.39824e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1134Mass: 109 X.vel: -9.62081e-019 Y.vel: -4.06242e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1135Mass: 110 X.vel: 2.75831e-020 Y.vel: -9.91782e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1136Mass: 110 X.vel: 4.42458e-020 Y.vel: 7.97375e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1137Mass: 129 X.vel: 5.0421e-022 Y.vel: 1.45625e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1138Mass: 166 X.vel: 2.92411e-027 Y.vel: 2.35842e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1139Mass: 106 X.vel: -7.81356e-023 Y.vel: -4.09773e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1140Mass: 108 X.vel: -1.17233e-021 Y.vel: 2.55597e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1141Mass: 105 X.vel: -3.60838e-022 Y.vel: -1.79905e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1142Mass: 111 X.vel: -1.92776e-023 Y.vel: -3.48017e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1143Mass: 104 X.vel: 4.19813e-019 Y.vel: -3.23877e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1144Mass: 105 X.vel: -4.70873e-020 Y.vel: -3.27236e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1145Mass: 111 X.vel: 5.81638e-018 Y.vel: -9.24928e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1146Mass: 109 X.vel: -7.90031e-021 Y.vel: 1.16469e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1147Mass: 110 X.vel: -9.25479e-023 Y.vel: 3.02747e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1148Mass: 129 X.vel: -5.97737e-020 Y.vel: -1.87846e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1149Mass: 166 X.vel: 2.47117e-026 Y.vel: 7.11335e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1150Mass: 166 X.vel: 8.01268e-026 Y.vel: 2.89013e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1151Mass: 166 X.vel: 4.00775e-026 Y.vel: 2.88254e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1152Mass: 166 X.vel: 2.6106e-030 Y.vel: 1.50096e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1153Mass: 88 X.vel: -3.25041e-018 Y.vel: -1.03872e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1154Mass: 90 X.vel: 3.50262e-017 Y.vel: -1.45751e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1155Mass: 87 X.vel: -2.65993e-019 Y.vel: 1.98055e-017 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1156Mass: 93 X.vel: -2.0582e-019 Y.vel: -1.34308e-016 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1157Mass: 86 X.vel: -1.64902e-018 Y.vel: -1.30288e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1158Mass: 87 X.vel: 5.54174e-019 Y.vel: -1.91619e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1159Mass: 93 X.vel: 9.20297e-017 Y.vel: -1.81603e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1160Mass: 91 X.vel: -5.39503e-018 Y.vel: 2.42518e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1161Mass: 92 X.vel: -3.50063e-017 Y.vel: 1.64746e-015 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1162Mass: 92 X.vel: -1.48237e-016 Y.vel: 1.71984e-014 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1163Mass: 111 X.vel: 2.74274e-018 Y.vel: 6.37669e-017 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1164Mass: 130 X.vel: -4.13598e-020 Y.vel: 4.79128e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1165Mass: 128 X.vel: -4.36838e-021 Y.vel: -8.1891e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1166Mass: 129 X.vel: -2.29164e-022 Y.vel: -3.78944e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1167Mass: 111 X.vel: 5.20859e-017 Y.vel: 9.44956e-016 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1168Mass: 129 X.vel: -1.75978e-019 Y.vel: -4.78191e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1169Mass: 129 X.vel: -1.01195e-024 Y.vel: -3.32943e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1170Mass: 125 X.vel: 1.80363e-020 Y.vel: -1.64251e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1171Mass: 127 X.vel: 6.94393e-021 Y.vel: 7.60277e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1172Mass: 124 X.vel: -1.33525e-023 Y.vel: -9.73418e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1173Mass: 130 X.vel: -2.23549e-022 Y.vel: -3.99256e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1174Mass: 123 X.vel: -2.09461e-021 Y.vel: -1.86651e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1175Mass: 124 X.vel: 2.51991e-021 Y.vel: -1.19313e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1176Mass: 130 X.vel: -3.90134e-021 Y.vel: -4.691e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1177Mass: 128 X.vel: 4.57381e-020 Y.vel: -7.30632e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1178Mass: 129 X.vel: 3.52979e-020 Y.vel: 4.7719e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1179Mass: 129 X.vel: 8.94752e-021 Y.vel: 3.92441e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1180Mass: 148 X.vel: -2.57897e-023 Y.vel: -9.475e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1181Mass: 185 X.vel: 9.1817e-028 Y.vel: -7.74676e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1182Mass: 125 X.vel: -3.27928e-022 Y.vel: -4.13758e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1183Mass: 127 X.vel: -7.35578e-021 Y.vel: 1.88082e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1184Mass: 124 X.vel: -5.71198e-022 Y.vel: -6.01183e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1185Mass: 130 X.vel: -1.85236e-022 Y.vel: -4.78839e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1186Mass: 123 X.vel: 1.32861e-020 Y.vel: -4.68339e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1187Mass: 124 X.vel: -2.33131e-020 Y.vel: -2.25636e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1188Mass: 130 X.vel: 4.16283e-019 Y.vel: 8.36836e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1189Mass: 128 X.vel: -4.43174e-021 Y.vel: -1.47456e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1190Mass: 129 X.vel: -3.46419e-022 Y.vel: -1.90558e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1191Mass: 129 X.vel: -7.35714e-020 Y.vel: 1.40135e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1192Mass: 185 X.vel: 5.48007e-027 Y.vel: -1.87246e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1193Mass: 185 X.vel: 3.80781e-027 Y.vel: 4.98512e-028 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1194Mass: 185 X.vel: 2.06484e-027 Y.vel: -6.71732e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1195Mass: 185 X.vel: -2.34384e-030 Y.vel: -1.34695e-029 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1196Mass: 125 X.vel: -2.51149e-021 Y.vel: 4.26559e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1197Mass: 127 X.vel: 1.47753e-019 Y.vel: -2.16784e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1198Mass: 124 X.vel: -2.23936e-022 Y.vel: 2.16345e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1199Mass: 130 X.vel: -2.26878e-022 Y.vel: -9.23016e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1200Mass: 123 X.vel: -1.4529e-021 Y.vel: -4.47644e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1201Mass: 124 X.vel: 7.75224e-022 Y.vel: -1.57325e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1202Mass: 130 X.vel: 2.13395e-019 Y.vel: -1.70134e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1203Mass: 128 X.vel: -2.61893e-020 Y.vel: 2.01438e-020 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1204Mass: 129 X.vel: -1.46927e-019 Y.vel: 2.31818e-019 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1205Mass: 129 X.vel: -2.19492e-019 Y.vel: 1.70198e-018 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1206Mass: 148 X.vel: 2.0989e-021 Y.vel: -1.91494e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1207Mass: 167 X.vel: -3.38329e-023 Y.vel: 6.90792e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1208Mass: 165 X.vel: 1.60823e-025 Y.vel: 3.28346e-025 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1209Mass: 166 X.vel: 2.81618e-025 Y.vel: 1.58872e-025 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1210Mass: 148 X.vel: 2.87367e-020 Y.vel: 2.24702e-021 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1211Mass: 166 X.vel: 3.38756e-023 Y.vel: -6.97456e-023 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1212Mass: 166 X.vel: 1.71685e-026 Y.vel: -1.7977e-027 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1213Mass: 162 X.vel: 1.05942e-024 Y.vel: -1.68877e-024 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1214Mass: 164 X.vel: -2.24104e-025 Y.vel: 2.53098e-025 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1215Mass: 161 X.vel: 1.39448e-026 Y.vel: -5.33284e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1216Mass: 167 X.vel: 5.11287e-027 Y.vel: -3.86949e-026 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1217Mass: 160 X.vel: 1.18485e-026 Y.vel: -1.18956e-025 gForce: 0.000000 Force Vector: X:-0.000000 Y:-0.000000
+
+Particle: 1218Mass: 161 X.vel: -3.06176e-027 Y.vel: -5.59225e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1219Mass: 167 X.vel: 7.82862e-025 Y.vel: -8.54228e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1220Mass: 165 X.vel: 2.71959e-023 Y.vel: -8.39326e-024 gForce: 0.000011 Force Vector: X:-0.000003 Y:-0.000010
+
+Particle: 1221Mass: 166 X.vel: -1.07887e-024 Y.vel: 1.68274e-024 gForce: 0.000023 Force Vector: X:-0.000001 Y:-0.000023
+
+Particle: 1222Mass: 166 X.vel: -7.74371e-025 Y.vel: 8.38244e-024 gForce: 0.000008 Force Vector: X:-0.000005 Y:-0.000006
+
+Particle: 1223Mass: 185 X.vel: 5.88108e-026 Y.vel: 1.38953e-026 gForce: 0.000010 Force Vector: X:-0.000006 Y:-0.000007
+
+Particle: 1224Mass: 222 X.vel: -2.11904e-032 Y.vel: -3.81339e-032 gForce: 0.000015 Force Vector: X:-0.000008 Y:-0.000013
+
+Particle: 1225Mass: 162 X.vel: 7.39897e-027 Y.vel: -6.03024e-026 gForce: 0.000018 Force Vector: X:-0.000011 Y:-0.000014
+
+Particle: 1226Mass: 161 X.vel: -5.03574e-027 Y.vel: 4.97616e-026 gForce: 0.000033 Force Vector: X:-0.000016 Y:-0.000029
+
+Particle: 1227Mass: 167 X.vel: 1.17384e-026 Y.vel: -2.24237e-026 gForce: 0.000019 Force Vector: X:-0.000007 Y:-0.000017
+
+Particle: 1228Mass: 160 X.vel: 1.74368e-027 Y.vel: 4.51978e-026 gForce: 0.000018 Force Vector: X:-0.000002 Y:-0.000018
+
+Particle: 1229Mass: 161 X.vel: 6.74739e-028 Y.vel: 1.23116e-026 gForce: 0.000030 Force Vector: X:-0.000015 Y:-0.000027
+
+Particle: 1230Mass: 167 X.vel: -2.38633e-027 Y.vel: -1.09489e-025 gForce: 0.000084 Force Vector: X:-0.000007 Y:-0.000084
+
+Particle: 1231Mass: 165 X.vel: -2.69935e-027 Y.vel: 1.67611e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1232Mass: 166 X.vel: -7.26534e-027 Y.vel: 6.21415e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1233Mass: 166 X.vel: -3.70831e-027 Y.vel: 1.00192e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1234Mass: 185 X.vel: -1.57064e-026 Y.vel: -1.62939e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1235Mass: 222 X.vel: -9.13889e-030 Y.vel: -4.54018e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1236Mass: 222 X.vel: -5.26026e-031 Y.vel: -3.93264e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1237Mass: 222 X.vel: 3.00338e-034 Y.vel: -6.29408e-034 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1238Mass: 125 X.vel: -4.78002e-022 Y.vel: -2.25517e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1239Mass: 127 X.vel: 4.96622e-021 Y.vel: -3.21184e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1240Mass: 124 X.vel: -4.55954e-023 Y.vel: 4.27703e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1241Mass: 130 X.vel: -3.43191e-023 Y.vel: -3.07149e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1242Mass: 123 X.vel: -2.72776e-022 Y.vel: -2.839e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1243Mass: 124 X.vel: 8.07409e-023 Y.vel: -4.328e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1244Mass: 130 X.vel: 1.40633e-020 Y.vel: -4.06928e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1245Mass: 128 X.vel: -8.45754e-022 Y.vel: 5.22629e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1246Mass: 129 X.vel: -5.00369e-021 Y.vel: 3.64742e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1247Mass: 129 X.vel: -2.38608e-020 Y.vel: 3.84658e-018 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1248Mass: 148 X.vel: 4.17678e-022 Y.vel: 1.52121e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:-0.000000
+
+Particle: 1249Mass: 167 X.vel: 2.09466e-025 Y.vel: 9.60728e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1250Mass: 165 X.vel: -5.66246e-025 Y.vel: 1.7953e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1251Mass: 166 X.vel: 1.06446e-025 Y.vel: 1.75454e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1252Mass: 148 X.vel: 9.48877e-021 Y.vel: 2.21222e-019 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1253Mass: 166 X.vel: 3.53627e-025 Y.vel: -1.14219e-022 gForce: 0.000000 Force Vector: X:-0.000000 Y:0.000000
+
+Particle: 1254Mass: 166 X.vel: -2.227e-026 Y.vel: 1.0109e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1255Mass: 162 X.vel: 3.16443e-026 Y.vel: -2.56751e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1256Mass: 164 X.vel: 3.37577e-024 Y.vel: 2.17121e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1257Mass: 161 X.vel: -7.38431e-028 Y.vel: -9.93794e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1258Mass: 167 X.vel: -8.42491e-028 Y.vel: -8.60669e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1259Mass: 160 X.vel: 8.16684e-028 Y.vel: -2.95064e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1260Mass: 161 X.vel: 9.03608e-028 Y.vel: -1.7104e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1261Mass: 167 X.vel: 1.48319e-026 Y.vel: -2.12275e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1262Mass: 165 X.vel: 6.84407e-025 Y.vel: -3.66489e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1263Mass: 166 X.vel: -2.81082e-026 Y.vel: 2.56208e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1264Mass: 166 X.vel: -1.1465e-026 Y.vel: 2.07714e-023 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1265Mass: 185 X.vel: -3.19304e-024 Y.vel: -1.10376e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1266Mass: 222 X.vel: -2.73089e-033 Y.vel: -1.73197e-032 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1267Mass: 162 X.vel: 4.72626e-028 Y.vel: -1.43734e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1268Mass: 164 X.vel: 2.29965e-029 Y.vel: 1.0506e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1269Mass: 161 X.vel: 1.04932e-027 Y.vel: 1.39037e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1270Mass: 167 X.vel: -4.07592e-026 Y.vel: 4.45337e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1271Mass: 161 X.vel: 6.91813e-028 Y.vel: 4.95559e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1272Mass: 167 X.vel: 5.17513e-027 Y.vel: -3.39202e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1273Mass: 165 X.vel: 2.45769e-028 Y.vel: 3.32077e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1274Mass: 166 X.vel: -4.44022e-028 Y.vel: 1.52701e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1275Mass: 166 X.vel: 1.42685e-026 Y.vel: 3.42469e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1276Mass: 185 X.vel: 3.69473e-026 Y.vel: -4.75866e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1277Mass: 222 X.vel: -3.9931e-029 Y.vel: -3.06849e-029 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1278Mass: 222 X.vel: -1.15612e-030 Y.vel: -3.26731e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1279Mass: 125 X.vel: -9.39867e-021 Y.vel: -7.44078e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1280Mass: 127 X.vel: -2.55601e-021 Y.vel: 8.9519e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1281Mass: 124 X.vel: 6.57293e-021 Y.vel: 5.44411e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1282Mass: 130 X.vel: -1.13313e-020 Y.vel: -6.4203e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1283Mass: 123 X.vel: -2.45312e-020 Y.vel: -2.04761e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1284Mass: 124 X.vel: 3.0602e-020 Y.vel: -3.24514e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1285Mass: 130 X.vel: 3.09122e-019 Y.vel: 2.64323e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1286Mass: 128 X.vel: -2.92402e-021 Y.vel: -1.82296e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1287Mass: 129 X.vel: -3.72709e-021 Y.vel: 9.87537e-021 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1288Mass: 129 X.vel: -2.95141e-019 Y.vel: 1.07447e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1289Mass: 148 X.vel: -4.42314e-022 Y.vel: 1.3741e-020 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1290Mass: 167 X.vel: -1.15942e-024 Y.vel: -9.82464e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1291Mass: 165 X.vel: 1.99511e-026 Y.vel: 2.32393e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1292Mass: 166 X.vel: 3.15288e-026 Y.vel: 1.29569e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1293Mass: 148 X.vel: 1.27155e-021 Y.vel: 2.33793e-022 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1294Mass: 166 X.vel: 1.24033e-024 Y.vel: 1.83182e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1295Mass: 166 X.vel: 2.14815e-027 Y.vel: 1.08768e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1296Mass: 162 X.vel: 5.92255e-026 Y.vel: 1.54097e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1297Mass: 164 X.vel: -9.08725e-025 Y.vel: 1.2672e-024 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1298Mass: 161 X.vel: 5.28223e-027 Y.vel: -1.65936e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1299Mass: 167 X.vel: 6.89931e-027 Y.vel: -8.93326e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1300Mass: 160 X.vel: 2.70083e-026 Y.vel: -1.72259e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1301Mass: 161 X.vel: 3.39411e-026 Y.vel: -2.4093e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1302Mass: 167 X.vel: 2.63812e-024 Y.vel: -7.66235e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1303Mass: 165 X.vel: 7.68541e-026 Y.vel: -1.90735e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1304Mass: 166 X.vel: -1.73653e-025 Y.vel: 1.78896e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1305Mass: 166 X.vel: -2.53952e-024 Y.vel: 1.95166e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1306Mass: 185 X.vel: 1.86043e-027 Y.vel: -1.02208e-028 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1307Mass: 222 X.vel: -8.26004e-032 Y.vel: -9.52249e-032 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1308Mass: 162 X.vel: 6.24395e-027 Y.vel: 1.36251e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1309Mass: 164 X.vel: -1.05435e-026 Y.vel: 3.014e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1310Mass: 161 X.vel: 4.5068e-027 Y.vel: 9.25023e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1311Mass: 167 X.vel: 9.15077e-027 Y.vel: 5.56962e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1312Mass: 161 X.vel: 4.88766e-026 Y.vel: 5.74547e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1313Mass: 167 X.vel: 4.98518e-025 Y.vel: -7.81408e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1314Mass: 165 X.vel: -2.98989e-027 Y.vel: 2.62838e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1315Mass: 166 X.vel: -1.93124e-026 Y.vel: 8.86587e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1316Mass: 166 X.vel: -5.36093e-025 Y.vel: 9.02852e-025 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1317Mass: 185 X.vel: -2.53454e-026 Y.vel: 7.67262e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1318Mass: 222 X.vel: -7.25976e-030 Y.vel: 4.54294e-031 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1319Mass: 222 X.vel: -1.94723e-029 Y.vel: 3.18584e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1320Mass: 124 X.vel: -8.24763e-025 Y.vel: -9.82689e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1321Mass: 167 X.vel: 6.12043e-025 Y.vel: 7.29661e-026 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1322Mass: 165 X.vel: -1.26365e-025 Y.vel: 7.18449e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1323Mass: 166 X.vel: 2.439e-028 Y.vel: -5.09425e-031 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1324Mass: 167 X.vel: -9.03566e-030 Y.vel: -6.77341e-033 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1325Mass: 161 X.vel: 8.25167e-029 Y.vel: -3.17632e-032 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1326Mass: 167 X.vel: 1.25948e-025 Y.vel: -7.09956e-027 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1327Mass: 165 X.vel: -6.86698e-028 Y.vel: -2.92502e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1328Mass: 185 X.vel: -1.84903e-028 Y.vel: 4.64135e-031 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1329Mass: 222 X.vel: -7.97596e-033 Y.vel: -8.46085e-035 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1330Mass: 164 X.vel: -3.53163e-029 Y.vel: -9.03239e-034 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1331Mass: 161 X.vel: 1.43428e-030 Y.vel: 4.10011e-030 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1332Mass: 166 X.vel: -9.6741e-029 Y.vel: 6.31721e-032 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1333Mass: 185 X.vel: -3.54251e-029 Y.vel: 1.1689e-032 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
+Particle: 1334Mass: 222 X.vel: -7.82137e-033 Y.vel: -2.47925e-034 gForce: 0.000000 Force Vector: X:0.000000 Y:0.000000
+
