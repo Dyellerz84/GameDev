@@ -1,0 +1,5476 @@
+Number of Systems = 200
+
+Home
+Location = 0, 0
+
+     Number of planets in system = 4
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+G-1582
+Location = 872, 1320
+
+     Number of planets in system = 2
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+G-2019
+Location = 1635, 1185
+
+     Number of planets in system = 6
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+M-299
+Location = 246, 170
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 8
+
+G-852
+Location = 803, 287
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 16
+
+M-2273
+Location = 1816, 1368
+
+     Number of planets in system = 5
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+M-2620
+Location = 1798, 1907
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+M-1246
+Location = 1152, 476
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 28
+
+M-1984
+Location = 1761, 914
+
+     Number of planets in system = 0
+K-1294
+Location = 1021, 796
+
+     Number of planets in system = 0
+M-1373
+Location = 1210, 650
+
+     Number of planets in system = 5
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+M-2132
+Location = 1058, 1851
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 14
+
+G-2697
+Location = 1973, 1840
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+G-1012
+Location = 453, 906
+
+     Number of planets in system = 0
+G-1062
+Location = 124, 1055
+
+     Number of planets in system = 0
+M-2013
+Location = 1994, 283
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+K-1120
+Location = 1091, 255
+
+     Number of planets in system = 2
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+G-2119
+Location = 1291, 1681
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+A-1122
+Location = 889, 685
+
+     Number of planets in system = 7
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+B-2030
+Location = 458, 1978
+
+     Number of planets in system = 8
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+G-1844
+Location = 1832, 215
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+K-1054
+Location = 703, 786
+
+     Number of planets in system = 5
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+M-2222
+Location = 1445, 1689
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+K-2042
+Location = 671, 1929
+
+     Number of planets in system = 1
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+A-1806
+Location = 1806, 37
+
+     Number of planets in system = 0
+F-1706
+Location = 1121, 1287
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+F-1653
+Location = 857, 1414
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+K-473
+Location = 328, 342
+
+     Number of planets in system = 6
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+F-2584
+Location = 1730, 1920
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+M-1391
+Location = 84, 1389
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+A-1780
+Location = 609, 1673
+
+     Number of planets in system = 3
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+G-1187
+Location = 192, 1172
+
+     Number of planets in system = 0
+K-2179
+Location = 1885, 1094
+
+     Number of planets in system = 7
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+G-2159
+Location = 1625, 1423
+
+     Number of planets in system = 0
+K-1961
+Location = 1494, 1271
+
+     Number of planets in system = 1
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+A-1462
+Location = 1275, 717
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+M-1192
+Location = 1188, 100
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+G-1271
+Location = 978, 812
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+F-2012
+Location = 551, 1936
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+F-606
+Location = 486, 363
+
+     Number of planets in system = 3
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+G-1874
+Location = 416, 1828
+
+     Number of planets in system = 0
+G-1310
+Location = 763, 1065
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+K-1772
+Location = 783, 1590
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+K-1951
+Location = 1944, 171
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+K-2431
+Location = 1911, 1504
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+A-1934
+Location = 1093, 1596
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+F-859
+Location = 560, 652
+
+     Number of planets in system = 7
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+M-1266
+Location = 1195, 420
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+F-725
+Location = 724, 45
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+M-1549
+Location = 1230, 942
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+F-1871
+Location = 1870, 82
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+K-2579
+Location = 1931, 1711
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+A-938
+Location = 906, 245
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+K-1651
+Location = 1319, 994
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+G-1928
+Location = 1580, 1106
+
+     Number of planets in system = 5
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+G-2261
+Location = 1769, 1409
+
+     Number of planets in system = 8
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+G-1185
+Location = 956, 701
+
+     Number of planets in system = 7
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+K-852
+Location = 313, 793
+
+     Number of planets in system = 5
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+M-2076
+Location = 1008, 1815
+
+     Number of planets in system = 5
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+M-1599
+Location = 1407, 760
+
+     Number of planets in system = 4
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 4
+
+K-1016
+Location = 915, 442
+
+     Number of planets in system = 0
+F-1735
+Location = 1466, 928
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+K-1467
+Location = 937, 1130
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+G-1955
+Location = 1853, 626
+
+     Number of planets in system = 1
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 32
+
+M-1199
+Location = 758, 929
+
+     Number of planets in system = 1
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+K-756
+Location = 266, 708
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 16
+
+M-1431
+Location = 924, 1094
+
+     Number of planets in system = 0
+A-1943
+Location = 831, 1757
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+M-2376
+Location = 1481, 1858
+
+     Number of planets in system = 3
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+M-2685
+Location = 1917, 1881
+
+     Number of planets in system = 5
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+M-1259
+Location = 524, 1145
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+G-1567
+Location = 9, 1567
+
+     Number of planets in system = 6
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+A-1684
+Location = 1336, 1026
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+B-2050
+Location = 1969, 571
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+G-1931
+Location = 247, 1916
+
+     Number of planets in system = 3
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+K-729
+Location = 566, 461
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+G-1994
+Location = 1029, 1709
+
+     Number of planets in system = 1
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 4
+
+F-1628
+Location = 1001, 1285
+
+     Number of planets in system = 7
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+G-1076
+Location = 927, 547
+
+     Number of planets in system = 2
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+M-1951
+Location = 1948, 123
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+K-1671
+Location = 1638, 333
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+M-889
+Location = 568, 685
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+K-1197
+Location = 1137, 377
+
+     Number of planets in system = 0
+F-2161
+Location = 1342, 1694
+
+     Number of planets in system = 7
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 14
+
+M-388
+Location = 270, 280
+
+     Number of planets in system = 1
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+K-1413
+Location = 1397, 215
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+M-889
+Location = 764, 456
+
+     Number of planets in system = 5
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 12
+
+G-1947
+Location = 1367, 1387
+
+     Number of planets in system = 2
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+K-1344
+Location = 310, 1308
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+M-1788
+Location = 1786, 88
+
+     Number of planets in system = 8
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+K-1477
+Location = 749, 1273
+
+     Number of planets in system = 8
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+M-2054
+Location = 1812, 969
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+G-1530
+Location = 1010, 1150
+
+     Number of planets in system = 7
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+F-1894
+Location = 1503, 1154
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+M-1415
+Location = 619, 1273
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 24
+
+K-1586
+Location = 1548, 349
+
+     Number of planets in system = 6
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+F-1883
+Location = 64, 1882
+
+     Number of planets in system = 0
+M-2447
+Location = 1843, 1610
+
+     Number of planets in system = 1
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+O-1241
+Location = 913, 842
+
+     Number of planets in system = 3
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+F-1770
+Location = 1746, 291
+
+     Number of planets in system = 2
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+K-1334
+Location = 202, 1319
+
+     Number of planets in system = 7
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+A-1846
+Location = 1164, 1434
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+A-2243
+Location = 1039, 1988
+
+     Number of planets in system = 1
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+A-2579
+Location = 1968, 1667
+
+     Number of planets in system = 1
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+F-638
+Location = 19, 638
+
+     Number of planets in system = 2
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 8
+
+G-362
+Location = 360, 39
+
+     Number of planets in system = 0
+G-1149
+Location = 450, 1058
+
+     Number of planets in system = 8
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+M-1923
+Location = 206, 1912
+
+     Number of planets in system = 0
+K-1663
+Location = 1656, 155
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+K-2776
+Location = 1981, 1946
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+K-2410
+Location = 1858, 1535
+
+     Number of planets in system = 4
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+M-1244
+Location = 213, 1226
+
+     Number of planets in system = 1
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+A-2399
+Location = 1661, 1731
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+G-1866
+Location = 1149, 1471
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+G-1507
+Location = 1157, 966
+
+     Number of planets in system = 0
+M-832
+Location = 459, 695
+
+     Number of planets in system = 7
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+M-2082
+Location = 931, 1863
+
+     Number of planets in system = 4
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+K-1989
+Location = 1696, 1040
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+A-710
+Location = 661, 261
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 16
+
+A-2337
+Location = 1966, 1264
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+A-1214
+Location = 936, 774
+
+     Number of planets in system = 3
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+G-1706
+Location = 1432, 929
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+M-1469
+Location = 985, 1091
+
+     Number of planets in system = 3
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 28
+
+F-1718
+Location = 900, 1464
+
+     Number of planets in system = 8
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+G-1683
+Location = 975, 1373
+
+     Number of planets in system = 8
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+G-1937
+Location = 1896, 398
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+M-1716
+Location = 273, 1695
+
+     Number of planets in system = 4
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 40
+
+M-1488
+Location = 1101, 1002
+
+     Number of planets in system = 2
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+M-2022
+Location = 1065, 1719
+
+     Number of planets in system = 3
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 3
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+G-2040
+Location = 1191, 1657
+
+     Number of planets in system = 6
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+F-1234
+Location = 1233, 57
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+K-927
+Location = 719, 586
+
+     Number of planets in system = 4
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+G-980
+Location = 354, 914
+
+     Number of planets in system = 5
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 30
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 14
+
+M-1099
+Location = 54, 1098
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+A-1613
+Location = 1341, 898
+
+     Number of planets in system = 6
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+M-2028
+Location = 1504, 1361
+
+     Number of planets in system = 5
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+A-2321
+Location = 1529, 1747
+
+     Number of planets in system = 8
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+A-1771
+Location = 133, 1766
+
+     Number of planets in system = 8
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+M-867
+Location = 864, 81
+
+     Number of planets in system = 8
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+K-2549
+Location = 1707, 1894
+
+     Number of planets in system = 2
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+G-642
+Location = 404, 500
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+M-1770
+Location = 1398, 1087
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 4
+
+F-2515
+Location = 1642, 1906
+
+     Number of planets in system = 8
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 5
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+M-1302
+Location = 222, 1283
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 4
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+F-2148
+Location = 1013, 1895
+
+     Number of planets in system = 5
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+F-1049
+Location = 605, 857
+
+     Number of planets in system = 8
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 14
+
+G-2210
+Location = 1523, 1602
+
+     Number of planets in system = 2
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+K-1797
+Location = 1589, 840
+
+     Number of planets in system = 0
+M-2081
+Location = 1141, 1741
+
+     Number of planets in system = 7
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+K-1568
+Location = 1456, 582
+
+     Number of planets in system = 3
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+G-734
+Location = 546, 492
+
+     Number of planets in system = 3
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+A-1803
+Location = 527, 1725
+
+     Number of planets in system = 0
+M-598
+Location = 45, 597
+
+     Number of planets in system = 3
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+F-1034
+Location = 534, 886
+
+     Number of planets in system = 4
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 16
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 14
+
+G-1438
+Location = 372, 1390
+
+     Number of planets in system = 4
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 7
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 8
+
+F-2089
+Location = 1932, 795
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+F-1529
+Location = 1328, 759
+
+     Number of planets in system = 3
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+M-1900
+Location = 372, 1864
+
+     Number of planets in system = 5
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 28
+
+F-1855
+Location = 854, 1647
+
+     Number of planets in system = 2
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+K-2435
+Location = 1968, 1434
+
+     Number of planets in system = 8
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 1
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 14
+
+     Orbital position = 0
+     Climate = Paradise
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+M-887
+Location = 726, 511
+
+     Number of planets in system = 3
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+G-1768
+Location = 1754, 226
+
+     Number of planets in system = 7
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 18
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 16
+
+M-1589
+Location = 1577, 196
+
+     Number of planets in system = 1
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+K-2286
+Location = 1734, 1490
+
+     Number of planets in system = 3
+     Orbital position = 3
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 8
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+K-574
+Location = 425, 387
+
+     Number of planets in system = 3
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 40
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+A-1304
+Location = 1262, 331
+
+     Number of planets in system = 2
+     Orbital position = 0
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+K-645
+Location = 445, 467
+
+     Number of planets in system = 3
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+G-1244
+Location = 854, 905
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 1
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+K-509
+Location = 365, 355
+
+     Number of planets in system = 4
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+M-2637
+Location = 1730, 1991
+
+     Number of planets in system = 5
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+K-832
+Location = 506, 661
+
+     Number of planets in system = 1
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 16
+
+A-735
+Location = 731, 80
+
+     Number of planets in system = 4
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 5
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+A-1422
+Location = 1305, 566
+
+     Number of planets in system = 0
+M-2235
+Location = 1141, 1922
+
+     Number of planets in system = 7
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 2
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 35
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 16
+
+M-925
+Location = 300, 875
+
+     Number of planets in system = 1
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+M-1533
+Location = 719, 1355
+
+     Number of planets in system = 8
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 4
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+     Orbital position = 0
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 6
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 5
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+G-2312
+Location = 1960, 1227
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+K-1533
+Location = 645, 1391
+
+     Number of planets in system = 7
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 28
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 40
+
+     Orbital position = 2
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Large
+     Base Maximum Population = 4
+
+M-2016
+Location = 1967, 445
+
+     Number of planets in system = 5
+     Orbital position = 1
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+     Orbital position = 6
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 12
+
+M-1956
+Location = 1956, 49
+
+     Number of planets in system = 0
+G-1143
+Location = 1020, 517
+
+     Number of planets in system = 2
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 16
+
+M-2163
+Location = 1122, 1850
+
+     Number of planets in system = 1
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 4
+
+A-2264
+Location = 1977, 1105
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 3
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 5
+     Climate = Tundra
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 6
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+K-1457
+Location = 1455, 93
+
+     Number of planets in system = 2
+     Orbital position = 1
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 8
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 6
+
+F-1481
+Location = 1223, 836
+
+     Number of planets in system = 2
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 8
+
+F-1417
+Location = 834, 1146
+
+     Number of planets in system = 4
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 6
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 3
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 40
+
+F-589
+Location = 94, 582
+
+     Number of planets in system = 0
+M-2134
+Location = 1455, 1562
+
+     Number of planets in system = 5
+     Orbital position = 6
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 30
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 8
+     Climate = Paradise
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 10
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Small
+     Base Maximum Population = 4
+
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+B-1579
+Location = 1247, 970
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Huge
+     Base Maximum Population = 45
+
+     Orbital position = 0
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+     Orbital position = 8
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 2
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 9
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 4
+     Climate = Terran
+     Mineral Abundance = Ultra Rich
+     Planet Size = Small
+     Base Maximum Population = 18
+
+F-1594
+Location = 594, 1480
+
+     Number of planets in system = 4
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+     Orbital position = 5
+     Climate = Paradise
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 20
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 8
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 2
+
+A-2227
+Location = 1630, 1518
+
+     Number of planets in system = 8
+     Orbital position = 1
+     Climate = Desert
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 20
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Ocean
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 8
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 18
+
+     Orbital position = 8
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 18
+
+G-972
+Location = 295, 927
+
+     Number of planets in system = 1
+     Orbital position = 4
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+G-2351
+Location = 1532, 1784
+
+     Number of planets in system = 7
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 24
+
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 5
+
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 5
+     Climate = Ocean
+     Mineral Abundance = Ultra Rich
+     Planet Size = Large
+     Base Maximum Population = 32
+
+     Orbital position = 4
+     Climate = Swamp
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
+     Orbital position = 2
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Tiny
+     Base Maximum Population = 4
+
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Ultra Rich
+     Planet Size = Tiny
+     Base Maximum Population = 1
+
+G-2517
+Location = 1810, 1750
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Abundant
+     Planet Size = Medium
+     Base Maximum Population = 3
+
+     Orbital position = 8
+     Climate = Ocean
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 0
+     Climate = Terran
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 6
+     Climate = Ocean
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 16
+
+     Orbital position = 1
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 8
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Abundant
+     Planet Size = Tiny
+     Base Maximum Population = 3
+
+M-480
+Location = 479, 40
+
+     Number of planets in system = 2
+     Orbital position = 7
+     Climate = Toxic
+     Mineral Abundance = Poor
+     Planet Size = Small
+     Base Maximum Population = 2
+
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Ultra Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+B-183
+Location = 78, 166
+
+     Number of planets in system = 6
+     Orbital position = 7
+     Climate = RAdiated
+     Mineral Abundance = Abundant
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 8
+     Climate = Tundra
+     Mineral Abundance = Abundant
+     Planet Size = Small
+     Base Maximum Population = 12
+
+     Orbital position = 5
+     Climate = Terran
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+     Orbital position = 3
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Tiny
+     Base Maximum Population = 7
+
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Tiny
+     Base Maximum Population = 9
+
+M-153
+Location = 153, 14
+
+     Number of planets in system = 1
+     Orbital position = 6
+     Climate = Terran
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 27
+
+G-1171
+Location = 1146, 243
+
+     Number of planets in system = 6
+     Orbital position = 2
+     Climate = RAdiated
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Ultra Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 1
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 6
+
+     Orbital position = 3
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Desert
+     Mineral Abundance = Rich
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 7
+     Climate = Barren
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 15
+
+A-594
+Location = 152, 575
+
+     Number of planets in system = 3
+     Orbital position = 2
+     Climate = Terran
+     Mineral Abundance = Abundant
+     Planet Size = Large
+     Base Maximum Population = 36
+
+     Orbital position = 7
+     Climate = Tundra
+     Mineral Abundance = Poor
+     Planet Size = Large
+     Base Maximum Population = 24
+
+     Orbital position = 6
+     Climate = Barren
+     Mineral Abundance = Rich
+     Planet Size = Small
+     Base Maximum Population = 6
+
+M-2045
+Location = 1878, 811
+
+     Number of planets in system = 5
+     Orbital position = 3
+     Climate = Toxic
+     Mineral Abundance = Rich
+     Planet Size = Large
+     Base Maximum Population = 4
+
+     Orbital position = 2
+     Climate = Paradise
+     Mineral Abundance = Poor
+     Planet Size = Huge
+     Base Maximum Population = 50
+
+     Orbital position = 6
+     Climate = RAdiated
+     Mineral Abundance = Rich
+     Planet Size = Huge
+     Base Maximum Population = 10
+
+     Orbital position = 4
+     Climate = Desert
+     Mineral Abundance = Poor
+     Planet Size = Medium
+     Base Maximum Population = 12
+
+     Orbital position = 0
+     Climate = Swamp
+     Mineral Abundance = Ultra Poor
+     Planet Size = Medium
+     Base Maximum Population = 21
+
