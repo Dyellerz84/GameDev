@@ -17,25 +17,25 @@ int main()
 
 	log << "Creating Engine....";
 	MOO::MOOEngine gameEngine;
-	log << "Sucessful!" << std::endl;
+	log << "Successful!" << std::endl;
 
 	log << "Creating IntroState...";
 	GameStateBase<MajorStates::Code>* currentState = new IntroState( &gameEngine );
-	log << "Sucessful!" << std::endl;
+	log << "Successful!" << std::endl;
 
 	while( currentState != NULL )
 	{
 		log << "Attempting input...";
 		currentState->HandleInput();
-		log << "Sucessful!" << std::endl;
+		log << "Successful!" << std::endl;
 
 		log << "Attempting logic...";
 		currentState->HandleLogic();
-		log << "Sucessful!" << std::endl;
+		log << "Successful!" << std::endl;
 
 		log << "Attempting output...";
 		currentState->HandleOutput();
-		log << "Sucessful!" << std::endl;
+		log << "Successful!" << std::endl;
 
 
 		switch( currentState->nextState )
@@ -47,7 +47,7 @@ int main()
 				currentState = NULL;
 				log << "Creating Title State...";
 				currentState = new TitleState( &gameEngine );
-				log << "Sucessful!" << std::endl;
+				log << "Successful!" << std::endl;
 
 				break;
 			}
@@ -58,7 +58,7 @@ int main()
 				currentState = NULL;
 				log << "Creating Main Game State...";
 				currentState = new MainGameState( &gameEngine );
-				log << "Sucessful!" << std::endl;
+				log << "Successful!" << std::endl;
 				break;
 			}
 			
